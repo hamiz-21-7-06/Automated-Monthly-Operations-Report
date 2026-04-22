@@ -1,0 +1,1256 @@
+Report_Date,Region,Site,Department,Shift,Machine_ID,Operator_Name,Planned_Units,Actual_Units,Scrap_Units,Downtime_Minutes,Rework_Units,OEE_Percent,On_Time_Flag,Defect_Code,Status
+2025-10-16 00:00:00,West,Alpha Plant,Maintenance,Swing,m-023,liam brown,294,146.0,3.0,13.0,34.0,48.6,No,D04,Pending
+2024-09-30 00:00:00,Sauth,Harbor Unit ,Maintenance,night,M-032,Liam Brown ,898,774.0,10.0,67.0,35.0,85.1,FALSE,D04,Closed
+2024/07/01,East,Iron  Works,production,,M17,Logan Robinson,699,593.0,19.0,0.0,10.0,,Yes,D01,Closed
+07-Aug-2024,Nrth,Bravo Site,Maint,Night,M-036,Logan Robinson,732,639.0,36.0,67.0,6.0,82.4,no,,closed
+2024-10-30 00:00:00, west,Delta Hub,Production,day,m-016,M Garcia,402,,17.0,0.0,,63.2,no,,open
+11/10/2025,Nrth,Evergreen line , Quality ,day,M-010,Charlotte Clark,286,194.0,3.0,44.0,21.0,66.8,N,,
+2025-02-25,Noth,Iron Works,Production ,Swing,M21,Isabella Martinez ,1001,968.0,13.0,0.0,29.0,95.4,FALSE,D01,Pending
+12/14/2025,West,GRANITE BAY,Maintenance,Swing,M015,Maria Garcia,482,605.0,26.0,86.0,,108,No,D02,open
+2024/05/04,East,Evergreen Line,Packng,Night,M006,Amelia White,647,555.0,42.0,148.0,28.0,79.3,Yes,D03,Completed
+2024/08/13,Nrth ,Alpha Plant,Qual,Swing,, Logan Robinson,679,,31.0,85.0,10.0,88.4,TRUE,D02,open
+2024/04/20, East,Harbor Unit ,Qual,,M40,liam brown,772,625.0,36.0,50.0,15.0,76.3,FALSE,D03,closed
+,West,Iron Works,Packaging,Swing,M012,Elijah Thompson,1150,1087.0,52.0,30.0,31.0,90.0%,Y,,Closed
+12/14/2024,South,Harbor Unit,Logistics,night,M016, Emma Wilson,368,234.0,15.0,21.0,3.0,59.5,N,D05,Open
+18-Jun-2024,North ,Alpha Plant,Quality,,M-032,Ethan Harris,991,988.0,72.0,117.0,25.0,92.4,yes,,open
+11-Jul-2024,Nrth ,Bravo Site,production,Night,M030,Henry Lewis,710,735.0,31.0,0.0,8.0,99.2,no,D04,Pending
+25-Nov-2024,East,Harbor Unit , Packaging,Night,M-026,M Garcia,1070,1006.0,,0.0,30.0,91.2,No,,Closed
+2025/01/18,West, Central Works,Qual,Swing,M-031,Charlotte Clark,621,535.0,26.0,0.0,24.0,82,N,D03,Open
+2025-10-04,East,Evergreen Line,Qual,day,m-036, Amelia White,841,701.0,28.0,0.0,,80,N,,open
+2024/02/16,West,Falcon  Point,Packaging,,M-030,J. Smith,1148,1007.0,63.0,0.0,23.0,82.2,Yes,D02,closed
+2024-01-27 00:00:00,North,Iron Works, Production,day,m-006,Ava Johnson ,314,161.0,12.0,0.0,8.0,47.5,N,D02,Completed
+11/16/2024,North,Granite Bay,Production,night,m-023,Sophia Taylor,861,831.0,19.0,0.0,5.0,94.3,FALSE,D02,closed
+2025/10/10,SOUTH,Harbor Unit,Logistics,,,Amelia White,1175,1030.0,67.0,112.0,19.0,82,FALSE,,
+08/12/2025,West,Delta Hub, Maintenance,swing,M010, Sophia Taylor ,619,752.0,40.0,0.0,10.0,108,FALSE,,Completed
+2024-10-08 00:00:00,North,Delta Hub,Packaging,Day,M29,Henry Lewis ,785,653.0,4.0,0.0,,82.7,Y,D05,Pending
+2025/12/26, West , Central Works,production,night,M39,Emma Wilson,1140,1023.0,48.0,16.0,33.0,85.5,TRUE,,Open
+10/15/2024,SOUTH,Iron Works ,Logistics ,Night,M-025,John Smith,976,1011.0,53.0,25.0,,98.2,Yes,,open
+,Sauth,Bravo Site, Qual,night,m-024,Lucas Jackson,423,417.0,15.0,208.0,31.0,95,Y,D01,
+2024-07-23 00:00:00,West,Granite Bay,Maintenance,day,M039,Mia Thomas ,1087,948.0,39.0,213.0,12.0,83.6,Yes,,closed
+05/26/2024,East,BRAVO SITE,Logistics,Day,M032,Ava Johnson,1049,1113.0,8.0,170.0,2.0,105.3,FALSE,D01,Open
+2025/07/21,North,Falcon Point ,Packng,Night,M034,Emma Wilson,766,794.0,16.0,27.0,30.0,101.6,Y,D05,closed
+01/30/2024,East,Central Works,Packaging,Swing,m-009,Liam Brown,263,126.0,9.0,58.0,1.0,44.5,FALSE,D02,closed
+, East, Harbor unit ,Packng,day,m-022,Olivia Miller,1147,1188.0,30.0,0.0,30.0,101,TRUE,D05,closed
+2024/01/18,West ,Alpha Plant, production ,day,M-031,Isabella  Martinez,557,566.0,26.0,743.0,16.0,96.9,no,D02,Pending
+12/22/2025,East,Harbor  Unit,Packng,night,M034,Maria Garcia ,392,482.0,22.0,208.0,34.0,108,TRUE,,closed
+,West,Harbor unit,Maint,Swing,M019,J. Smith,607,537.0,2.0,0.0,18.0,88.1,Yes,D03,Closed
+19-Feb-2025,South,Bravo Site,Packng,Day,M035,Isabella Martinez,882,979.0,,168.0,14.0,,TRUE,,Closed
+08-Jul-2025,North,Iron Works ,Qual ,night,M30,James Moore,1197,1067.0,8.0,125.0,8.0,88.5%,Yes,D01,Open
+23-Oct-2024,South, Harbor Unit,Qual,swing,M12,James Moore,419,553.0,38.0,0.0,9.0,108,N,D04,
+24-Aug-2025,East,Falcon Point,Qual,day,M037,John Smith,921,1047.0,26.0,0.0,12.0,108,no,,Open
+2025-07-09,West,Harbor unit, Production,swing,M-012,Isabella Martinez ,1194,1064.0,9.0,0.0,,88.4,No,,Closed
+2025-05-02,East, Alpha Plant , Qual,Night,m-025,liam brown ,237,81.0,0.0,116.0,6.0,,TRUE,D04,Pending
+27-Nov-2025,East , Falcon Point,Packng,,m-001,NOAH DAVIS ,779,813.0,37.0,0.0,24.0,99.6,TRUE,,closed
+2024-11-07,West,Falcon Point,Logistics,night,M030,Mason Anderson,186,228.0,12.0,89.0,8.0,108,yes,,open
+28-Mar-2024,South,Iron Works ,Production,Swing,M22,Isabella Martinez,291,258.0,11.0,5.0,25.0,84.9,Y,D03,Completed
+2024-07-09 00:00:00,Eest,Granite Bay,production,,M-021, Liam Brown ,835,896.0,25.0,0.0,13.0,104.3,Y,,Closed
+2024-07-18 00:00:00,South,Harbor Unit,production,Swing,M-028,J. Smith,1014,1050.0,64.0,109.0,28.0,97.2,yes,D02,Open
+03-Sep-2025,South ,Delta Hub,Logistics,night,M6,Sophia Taylor,731,657.0,45.0,34.0,6.0,83.7,yes,D04,Pending
+,East ,Evergreen Line ,Qual,Swing,M15, A. Johnson  ,987,1002.0,6.0,0.0,10.0,100.9,FALSE,D02,Open
+2025-07-30 00:00:00,South,Harbor unit,Quality,,M-019,Emma  Wilson,188,112.0,3.0,52.0,13.0,58,no,,closed
+2024-03-02,South,Bravo Site,Logistics,,m-004,M Garcia,1151,1194.0,80.0,201.0,5.0,96.8,No,D01,Completed
+2025-08-13 00:00:00,West,Central Works,Production,swing,M-018,Liam Brown,822,701.0,,0.0,16.0,,N,,closed
+2025-05-20 00:00:00,East ,Delta Hub,Production,Night,M24,Ava Johnson,971,911.0,69.0,0.0,1.0,86.7,no,D01,Open
+06/17/2024, west,Alpha Plant,Quality,,M007,Maria Garcia,640,718.0,7.0,202.0,16.0,108,FALSE,,closed
+01/26/2025, west,Delta Hub,Packng,day,m-033, Emma Wilson,879,937.0,27.0,75.0,2.0,103.5,Yes,D02,Completed
+29-Aug-2025, South,Falcon Point,Maint,Swing,m-008,Lucas Jackson,505,528.0,1.0,72.0,12.0,104.4,FALSE,D05,Completed
+02-Jan-2024,SOUTH,Falcon Point,Quality,swing,M027,Elijah Thompson,1151,1284.0,98.0,23.0,,103.0%,FALSE,D04,Closed
+20-Sep-2025,Nrth, Central Works,Production,Swing,M6,Mason Anderson,1094,1181.0,55.0,47.0,6.0,102.9,Y,,open
+08/26/2025,North,Central Works , Packaging ,Night,m-010,liam brown,412,535.0,24.0,68.0,30.0,108,Y,D05,Closed
+2025/07/02, South,Evergreen Line,Production,,M015,liam brown,1081,1097.0,33.0,73.0,11.0,98.4,Y,,Open
+30-Jan-2024, West ,Iron Works,Maintenance,Swing,M014,M  Garcia,357,295.0,6.0,68.0,23.0,81,TRUE,D04,Completed
+2025-06-17 00:00:00, East ,Delta Hub,Logistics,swing,M-025,Charlotte Clark,1024,1067.0,0.0,47.0,18.0,104.2,no,D03,closed
+2024-12-09 00:00:00,Nrth,Central Works ,Maint,night,m-032,Emma Wilson,850,735.0,14.0,83.0,18.0,84.8,,D02,Closed
+,South,Falcon Point,Maintenance,,M038,,184,151.0,5.0,,,79.3,TRUE,D02,open
+13-Apr-2024,East,Alpha Plant,Maint,day,M032,NOAH DAVIS,858,964.0,77.0,,7.0,103.4,No,,Open
+24-Mar-2025,East  ,Harbor Unit, Packaging ,day,M-029,J. Smith,1158,1135.0,11.0,0.0,29.0,97.1,FALSE,,closed
+09-Jun-2024,North,Bravo Site,Production ,,M020,Harper Martin,697,777.0,55.0,197.0,,103.6,FALSE,,Pending
+2024-02-16,North,Iron Works , Packaging,,M038,Noah Davis ,1098,1022.0,52.0,0.0,25.0,88.3,Y,,closed
+2025-12-29,West,Iron Works,Logistics,night,m-011,Noah Davis,934,,25.0,37.0,8.0,108,TRUE,D01,Completed
+2024/02/25,South,Bravo Site,Logistics,Swing,m-010,NOAH DAVIS,193,161.0,12.0,28.0,,77.2,yes,D02,open
+09/25/2025,East, Harbor Unit,Maint,Day,M14,Olivia Miller,723,806.0,1.0,0.0,15.0,108,N,D04,open
+11/20/2025,West,Harbor Unit ,Maint ,day,M-024,,301,,,0.0,4.0,,Y,D02,Pending
+03-Aug-2025,SOUTH,Harbor Unit,Quality,Night,M15,Lucas Jackson ,1052,919.0,70.0,145.0,16.0,80.7,No,D01,
+2024/08/05,Sauth,Central Works,Maintenance,Night,M-015, James Moore,1108,966.0,,60.0,23.0,81,TRUE,D05,open
+2025-01-20,North,Falcon Point,Packaging,day,M-009, Noah Davis,1176,1130.0,,93.0,,92.3,no,,Open
+,north,Bravo Site ,Maintenance,night,M15,Amelia White,450,375.0,10.0,0.0,24.0,,Yes,D01,Completed
+2024-04-19,East,Granite Bay,production,day,M-036, J. Smith,338,396.0,,54.0,17.0,108,Y,,open
+02/04/2024,North, Alpha Plant,Packng,Swing,M-037,Ethan Harris,982,1083.0,29.0,177.0,0.0,107.3,N,,Completed
+09/21/2024,South, Evergreen Line ,Maint,Night,m-040,Liam Brown ,249,,7.0,63.0,33.0,108,TRUE,,Pending
+2025-03-09 00:00:00, East ,Evergreen Line,Qual,day,M037,M  Garcia,669,785.0,22.0,180.0,33.0,108,FALSE,D03,closed
+03/02/2024, west, Iron Works ,Quality,swing,M010,Mia Thomas,400,370.0,20.0,195.0,35.0,87.5,FALSE,D05,Completed
+,Nrth,delta hub,Maintenance ,,m-035,Noah Davis,857,825.0,10.0,0.0,30.0,95.1,no,D04,
+2024/05/19,West, Alpha Plant,Maint,,M-013,Mason Anderson ,532,518.0,0.0,,18.0,,No,D04,Completed
+04/19/2025,West,Delta Hub,production,Night,M-036,J. Smith,893,749.0,,42.0,4.0,77.9,no,D02,Closed
+09/25/2025,South,GRANITE BAY,Packng,Night,M039,Noah Davis,526,396.0,9.0,0.0,20.0,73.6,yes,,closed
+, East,  Alpha Plant,Maint,,M-024,Sophia Taylor,509,405.0,4.0,0.0,31.0,78.8,No,D05,Completed
+06/19/2024,South,Harbor unit,Quality,day,M034, Mason Anderson,991,923.0,64.0,68.0,22.0,86.7%,TRUE,D05,Pending
+2025/08/05,West,Delta Hub,Production,swing,M015,liam brown,1119,1070.0,41.0,62.0,6.0,92,yes,D02,Completed
+08/08/2025,South,Harbor Unit, Packaging,,M004,Noah Davis,380,,33.0,23.0,5.0,108,Yes,,Pending
+,North,Iron Works ,Maint,day,,M Garcia,812,790.0,1.0,34.0,,97.2,Y,D04,Closed
+2025/09/19,South,Central Works,Maintenance,night,M21,Mason Anderson,1073,1029.0,73.0,84.0,8.0,89.1,N,D01,open
+, South,Harbor Unit,Packaging,,m-025,liam brown,660,,24.0,0.0,26.0,101.1%,Yes,D04,Pending
+2025/03/08,South,Evergreen line ,Maintenance,Day,M033, Amelia White,481,348.0,4.0,0.0,7.0,71.5,Y,D02,Closed
+2025/05/24, South, Evergreen line ,Production,,M019,liam brown,1055,1150.0,0.0,0.0,30.0,108,N,D01,open
+06-Dec-2025, South, Alpha Plant,Maint,day,,Mason Anderson,799,786.0,54.0,73.0,8.0,91.6,no,,Open
+,South, Falcon Point,Maintenance,day,,Elijah Thompson,1097,1108.0,52.0,19.0,20.0,96.3,FALSE,,Pending
+2024-04-10 00:00:00, Noth,Delta Hub,Maint,night,M-040,Lucas Jackson,1021,1125.0,16.0,14.0,33.0,108.0%,yes,D05,open
+15-Nov-2024,East,Falcon Point,Qual,Day,M023,Amelia White,520,461.0,34.0,59.0,29.0,82.1,yes,D04,Pending
+2025-11-16 00:00:00, west,Alpha Plant,Maintenance,Swing,M20,Lucas Jackson,259,392.0,,41.0,28.0,,yes,D04,open
+2024-08-04 00:00:00,East ,Harbor Unit,Logistics,day,M37,James Moore,858,,12.0,220.0,8.0,90.2,TRUE,D01,closed
+2025/11/10, East ,Evergreen Line, Quality,day,M006,Emma  Wilson,1163,,69.0,0.0,34.0,83.7,Yes,D01,closed
+2025-02-26 00:00:00,West,Iron  Works,Logistics,Night,M-021,Logan Robinson,968,1004.0,56.0,26.0,,97.9,N,,Open
+2024-03-10 00:00:00,North ,Granite Bay,Maintenance,swing,M18,M Garcia,192,242.0,,28.0,,108,yes,,closed
+2024-04-18 00:00:00,North,Harbor Unit,Logistics,,m-037,Mason Anderson,1114,1180.0,13.0,73.0,,104.8,yes,,Completed
+23-May-2024,North,Harbor unit,Packng ,night,, Henry Lewis,216,154.0,9.0,8.0,31.0,67.1,yes,,open
+2025-08-12,SOUTH,Granite Bay,Production,,M031,J. Smith,738,648.0,50.0,0.0,7.0,81,N,D05,closed
+, West, Iron Works ,Production,Day,M021,Mia  Thomas,968,914.0,,43.0,10.0,91.9,N,D03,
+2024-04-23,West,Delta Hub,Logistics,night,M-033,Amelia White,1052,1130.0,,37.0,10.0,105.4%,no,,Completed
+2025/02/19,North,Falcon Point,production,day,,Olivia Miller ,369,398.0,0.0,49.0,2.0,107.9,yes,D01,Completed
+2025-04-26 00:00:00,Noth ,BRAVO SITE,Packng,Day,m-002,John Smith,906,1018.0,68.0,120.0,4.0,104.9,Y,D03,Pending
+2024-02-18,Noth,alpha plant,Qual ,day,M10, Noah Davis,331,351.0,5.0,46.0,11.0,104.5,no,D01,Closed
+2024-01-26,West,Iron Works,Packaging,night,,Lucas Jackson,591,543.0,5.0,0.0,14.0,91,No,D03,closed
+08/27/2025,West,Alpha Plant,Maintenance,swing,,NOAH DAVIS,954,986.0,52.0,0.0,8.0,97.9,Yes,D04,Open
+2025-03-05,East , Central Works,Packng,,M-013,Ava Johnson ,831,853.0,37.0,0.0,11.0,98.2,Y,D02,Pending
+03/11/2025,North,Delta Hub, Maint ,,M033,Ava Johnson ,887,784.0,49.0,0.0,32.0,82.9,Y,D01,Pending
+2024-08-21 00:00:00,East,Delta Hub,Quality,day,,M Garcia ,597,494.0,20.0,0.0,23.0,79.4,No,D04,Pending
+21-Oct-2025,West,Granite Bay,Qual ,night,m-032,Emma  Wilson,1145,1189.0,85.0,62.0,29.0,96.4,no,D03,Completed
+12/02/2025,North,Granite Bay ,Qual,day,m-005, Emma Wilson,732,864.0,20.0,105.0,24.0,108,no,,Completed
+02-Nov-2024, East,Harbor Unit,Qual,swing,m-026,Harper Martin,552,615.0,40.0,9.0,,104.2,yes,,closed
+2024-06-03,South,Harbor Unit,Logistics,Day,M3,Maria Garcia,944,937.0,52.0,8.0,26.0,93.8%,No,,closed
+05-May-2024,East,Delta Hub,Maintenance,swing,,Emma  Wilson,971,971.0,74.0,211.0,6.0,92.4,yes,D03,Open
+2025-10-08 00:00:00,East,alpha plant,Maintenance,,M008, A. Johnson ,504,552.0,17.0,215.0,21.0,106.2,N,D03,Completed
+2024/01/24,North,Harbor Unit,Packaging ,swing,M014,Mason Anderson,1125,,80.0,0.0,,104,no,D03,Completed
+03-Sep-2025,North,Iron Works,Qual,Night,,Sophia Taylor,442,319.0,1.0,65.0,,71.9,Y,,Completed
+2024-07-06,East,Delta Hub,Production,night,m-002,M Garcia ,216,,22.0,0.0,35.0,,no,,closed
+2024-10-16 00:00:00,West,Central Works ,Packaging,swing,M13,Amelia White,510,378.0,17.0,,15.0,70.8,Y,D05,closed
+,East, Iron Works, Packaging ,Night,M30,Sophia Taylor,487,403.0,19.0,138.0,,,no,D04,open
+2025-09-23,North,Harbor Unit, production ,Night,m-013,,549,591.0,5.0,0.0,12.0,106.7,no,D01,Completed
+10/25/2025,West ,Granite Bay,Qual,,M009,Henry Lewis,607,689.0,39.0,57.0,10.0,107.1,No,D01,Closed
+14-Dec-2024,North,  Alpha Plant ,production,Swing,m-010,Noah Davis ,983,,71.0,88.0,6.0,94.9,N,,Open
+2025-02-23 00:00:00,West,Central Works,Production,swing,m-020,John Smith,1099,1173.0,66.0,97.0,0.0,100.7,N,,Pending
+07-Jul-2025,East ,Bravo Site,Production,Night,M037,Isabella Martinez,470,419.0,19.0,777.0,16.0,85.1,yes,D05,Pending
+2025/12/06,Sauth, Falcon Point ,Qual,Day,M002,Charlotte Clark,1133,1223.0,,0.0,29.0,103.3,yes,,Open
+2025-04-05 00:00:00,North,Evergreen Line,production,Day,M-033,,863,932.0,41.0,85.0,,,yes,D01,Pending
+2024-04-11,Nrth ,Evergreen line , production,Night,M-018,Logan Robinson,734,660.0,11.0,27.0,,88.4,yes,,Open
+2024-06-21 00:00:00,East,Harbor unit,Maintenance,night,M18,Isabella Martinez,980,945.0,54.0,738.0,18.0,,Y,D01,Closed
+14-Dec-2025, West ,Alpha Plant ,Qual,,m-040,James  Moore,900,990.0,68.0,83.0,1.0,102.4,N,D05,closed
+2024/03/07,North,Granite Bay,Packng,Swing,M026,Charlotte Clark,310,282.0,7.0,0.0,,,FALSE,,Open
+2025-06-16 00:00:00,North,Bravo Site ,Production,Swing,M-040,Harper Martin,993,954.0,76.0,12.0,,88.4,Y,D03,Completed
+05/20/2024, South,Iron Works,Logistics,Night,m-030,Charlotte Clark,996,858.0,,,34.0,82.2,FALSE,D04,Open
+,  west ,delta hub,Production,Night,M024,Emma  Wilson,546,401.0,9.0,80.0,,71.8,Yes,D05,closed
+2024/02/24,West,Evergreen Line,Production,Night,m-011,Ava Johnson ,824,807.0,62.0,60.0,10.0,90.4,Y,D03,Pending
+06/09/2025, Noth,Falcon Point,Logistics,,M026,liam  brown,739,619.0,14.0,0.0,21.0,81.9,Yes,D05,Pending
+2025-11-05 00:00:00,West,  Falcon Point, Logistics ,Day,, Olivia Miller,1034,1055.0,53.0,51.0,20.0,96.9,No,,Open
+2025-08-11,East,Falcon Point,Quality,,M30,Emma Wilson,1141,1139.0,64.0,574.0,,94.2,yes,D05,Pending
+2024-11-29,Eest,Harbor unit,Packaging ,,M8,M Garcia,599,669.0,13.0,0.0,29.0,108,yes,,Closed
+2024-09-12,South,Granite Bay,production,Day,M030,Sophia Taylor,563,525.0,1.0,0.0,4.0,93.1,yes,,Pending
+2025-11-13 00:00:00, North,Evergreen  Line,Logistics,Day,M3,Mason Anderson,673,547.0,38.0,48.0,14.0,75.6,Yes,,Open
+2024-05-08,East,Falcon Point,Maintenance,day,,Ava Johnson,273,201.0,6.0,54.0,,71.4%,,,open
+2025-02-08,West,Alpha Plant,Logistics,Night,M030,Henry Lewis,1173,1204.0,39.0,155.0,7.0,99.3%,yes,,open
+18-Dec-2024, South , Alpha Plant, Maint ,Day,M-040, Emma Wilson,1013,926.0,,587.0,,,N,D01,closed
+2025-04-29 00:00:00,West, Central Works,production,Swing,M33,John Smith,955,,43.0,232.0,23.0,96.8%,no,,Closed
+30-Dec-2025,North , Alpha Plant ,Qual,,M35, A. Johnson ,326,432.0,32.0,132.0,35.0,108,N,D01,Closed
+28-Apr-2024, west ,GRANITE BAY,Quality,day,m-003, A. Johnson  ,766,794.0,40.0,152.0,34.0,98.4,N,D01,Open
+11/06/2025,Sauth,Alpha Plant,Quality,Night,M-013,Charlotte Clark ,1114,1035.0,70.0,113.0,25.0,86.6,yes,,
+11/05/2024,Eest, Delta Hub,Packaging,swing,M037,Ava Johnson,884,812.0,48.0,85.0,29.0,86.4,N,D01,closed
+11/17/2024, Noth,Evergreen Line,Packaging ,day,,Noah Davis,305,165.0,3.0,27.0,2.0,53.1,No,,open
+02-Oct-2024,North,Iron Works,Qual,Swing,,James Moore,1199,1137.0,72.0,65.0,9.0,88.8,Yes,,Pending
+02/16/2025,West,Iron Works,Logistics,swing,M-021,Ava Johnson,668,573.0,43.0,0.0,,79.3,No,D05,
+2024/12/19,North,Iron Works,production,day,M-020,Henry Lewis,430,540.0,2.0,,,108,Y,,open
+2024-11-02 00:00:00,Nrth,Central Works,Packaging,Swing,M26,Liam Brown,553,612.0,34.0,,10.0,104.5%,Y,,Pending
+2025-03-15 00:00:00,North,Iron Works,Maint,day,m-018,,383,465.0,6.0,0.0,9.0,108.0%,Y,,open
+2024-08-31,East,Delta Hub, Maintenance,Night,M-028,Isabella Martinez,845,826.0,49.0,16.0,,92,No,,closed
+07/30/2024,North,Evergreen Line,Quality,Day,m-039, A. Johnson ,368,209.0,,7.0,33.0,55.2,No,,open
+2025-03-28, East,BRAVO SITE, Maint,Day,M-001,,405,411.0,25.0,64.0,,95.3,FALSE,D01,Completed
+2024/11/10,Nrth,Evergreen  Line,Logistics,swing,m-019,Mia Thomas ,519,604.0,3.0,80.0,2.0,108,FALSE,D03,open
+29-Dec-2025,Nrth,Harbor Unit,Logistics,swing,M035,Charlotte Clark,997,876.0,19.0,0.0,30.0,86.0,Y,D02,closed
+2024/08/17, South,Bravo Site,Production,,M20,Mia Thomas,237,147.0,11.0,3.0,,57.4,TRUE,D05,Open
+2024/04/04, West , Granite Bay ,production ,Swing,M-014, Mason Anderson ,714,747.0,,0.0,11.0,103.5,yes,D03,open
+2024-04-09 00:00:00,South,Central Works,Maintenance,night,, A. Johnson ,519,567.0,32.0,0.0,24.0,103.1,No,D04,Pending
+27-Dec-2024,West,Central Works,Packng,Swing,M-040,James Moore,271,147.0,7.0,126.0,8.0,51.7,No,,Completed
+2024-03-07,North,Granite Bay, Maint,,M18, A. Johnson ,504,519.0,31.0,0.0,2.0,96.8,Y,D04,open
+2025-09-03,North,Central Works, production,swing,M-013, Lucas Jackson,383,262.0,18.0,85.0,,63.7,No,D04,Open
+,North,Alpha Plant,Logistics,,M30,J. Smith,471,534.0,39.0,0.0,6.0,105.1,,,closed
+2025-08-08,East ,Granite Bay,Quality,Night,, A. Johnson ,1196,1256.0,50.0,0.0,27.0,100.8,yes,,Closed
+2025-08-16,North,Falcon Point,Packaging,Night,M-040,liam brown,1067,959.0,76.0,41.0,,82.8%,Y,D04,Closed
+2025/04/23,West,Falcon Point,Logistics,night,M38,J. Smith,943,1036.0,51.0,0.0,17.0,104.5,N,,Open
+08/05/2024,West ,Falcon Point,Maint,,M-035, John Smith,719,670.0,17.0,0.0,26.0,90.8,No,,Open
+2024-11-26 00:00:00,East,Granite Bay,Maintenance,night,M27,Isabella Martinez,1062,1125.0,11.0,47.0,3.0,104.9,N,D01,Closed
+2025/01/29,South,delta hub,Quality,night,M030,Elijah Thompson,372,461.0,13.0,67.0,,108,yes,D02,closed
+2024/04/21,East,Central  Works,Quality,Swing,M020, M Garcia,877,,7.0,4.0,4.0,83.8,Yes,D02,Closed
+21-Jun-2025,West ,Alpha Plant ,Logistics,swing,M024,Olivia Miller,695,620.0,49.0,82.0,22.0,82.2,TRUE,D01,open
+04/10/2025,Noth,GRANITE BAY,Logistics,,M036, A. Johnson ,760,777.0,787.0,0.0,18.0,35,TRUE,D05,closed
+22-May-2024,East,Granite Bay, Packaging,,m-016,Logan Robinson,879,821.0,53.0,0.0,29.0,87.4%,no,,open
+2024-02-24 00:00:00,North, Alpha Plant,Packng,Day,m-035,M Garcia,898,842.0,63.0,86.0,19.0,86.7%,TRUE,,Completed
+2024-10-17,South,Granite Bay,Maintenance,Swing,M20,J. Smith,648,549.0,0.0,82.0,,84.7,yes,D01,Open
+26-Nov-2025,North,Alpha Plant,Qual ,day,M013,Isabella Martinez,667,672.0,49.0,0.0,11.0,93.4%,no,D02,Completed
+2025-07-26,North,Evergreen Line, Qual,,m-040,Maria Garcia,1053,963.0,,9.0,,86.1,FALSE,,Closed
+2025-07-31 00:00:00,East, Delta Hub, Production,,M4, A. Johnson  ,1106,964.0,9.0,0.0,,86.3%,Yes,D01,Open
+2025-03-25 00:00:00,South,Falcon Point,Maint,Swing,M-033,Ethan Harris,364,348.0,11.0,232.0,25.0,92.6,no,D01,Closed
+27-Mar-2024,East,Delta Hub,Qual,night,M19,liam brown,241,223.0,12.0,225.0,14.0,87.6,TRUE,,open
+2025-08-05,North,Evergreen Line,Packaging ,swing,,  A.  Johnson  ,856,,22.0,,22.0,97.9,No,D03,open
+2024-05-26 00:00:00,East,Iron Works,Qual,day,M005,Charlotte Clark,205,212.0,11.0,109.0,18.0,98,FALSE,D03,Closed
+2025-02-23,South,Falcon Point,production,night,,Sophia Taylor,550,430.0,,97.0,28.0,72.4,TRUE,,closed
+2024/02/16,West,Iron Works,Quality,Day,m-028,Mia Thomas,255,276.0,13.0,194.0,8.0,103.1,N,D03,Pending
+2025-11-13,North,Granite Bay,Packng ,day,m-009,Liam Brown,465,377.0,17.0,0.0,2.0,77.4%,FALSE,D05,
+2025/08/23,South,delta hub,Maint,day,M32,Logan Robinson,565,517.0,16.0,23.0,8.0,88.7,no,,Completed
+06/03/2025,West,Iron  Works,production,night,m-022,,400,449.0,20.0,86.0,27.0,107.2,N,D01,closed
+13-Feb-2024, West,Iron Works,Maintenance ,night,m-020,Liam Brown,340,324.0,7.0,0.0,7.0,93.2%,FALSE,,Open
+25-Aug-2024, South,Granite Bay,Qual,Day,M32,J.  Smith,637,666.0,6.0,18.0,6.0,103.6%,,D04,open
+07/14/2025,East,Evergreen line , Maintenance ,swing,,Mason Anderson,608,,7.0,80.0,,,TRUE,,open
+28-Jul-2025,West,Central  Works,production,night,M004,Harper Martin,734,677.0,9.0,0.0,6.0,91.0,Y,,Open
+12-Dec-2025, North , Delta Hub,Quality,Swing,, A. Johnson ,987,955.0,71.0,688.0,29.0,89.6,Y,D02,Open
+10/14/2025,North, Alpha Plant,Packng ,Swing,M-012,Logan Robinson,907,778.0,54.0,24.0,1.0,79.8,N,,open
+2025-10-19,East ,Falcon Point,Packng,swing,M037,Ethan Harris,1145,1082.0,16.0,102.0,8.0,,No,,Open
+2025-01-21,West,Granite Bay,Packaging,Swing,M-015,NOAH DAVIS,854,711.0,6.0,0.0,21.0,82.6,Yes,D03,Open
+2025/04/16,Nrth,Granite Bay,Maint,Day,M28,Lucas Jackson,180,95.0,2.0,0.0,27.0,51.7,Y,D01,Completed
+11-Mar-2025, North ,Harbor unit, Packaging,swing,M8,NOAH DAVIS,334,319.0,21.0,13.0,25.0,89.2,N,D05,Completed
+,North,Alpha Plant,Logistics,Day,M030,liam brown,1068,1158.0,6.0,180.0,18.0,107.9,Y,D03,open
+15-Jul-2024,South,Granite  Bay,Logistics,Swing,m-005,Henry Lewis,764,737.0,,31.0,23.0,91.4,Y,D03,open
+,North,Harbor Unit,Logistics,Night,M019,NOAH DAVIS,1188,1204.0,95.0,99.0,28.0,93.4,yes,D04,Completed
+30-Jun-2024,North,Alpha Plant, Maint ,swing,M036,Emma Wilson,589,,21.0,,24.0,,no,,Completed
+05-Dec-2024,North,Alpha Plant,Logistics,swing,M-028,Sophia Taylor,1073,994.0,997.0,179.0,30.0,35,no,,Pending
+2025-12-17,South ,Granite Bay, Maint,Night,M34,Emma Wilson,444,574.0,2.0,690.0,23.0,108,No,D03,Open
+2024-12-31 00:00:00,North,Iron  Works,Maint,swing,,Logan Robinson,690,765.0,40.0,0.0,,,No,D01,Completed
+04-Sep-2025,South,Evergreen Line,Quality,night,,Isabella Martinez,678,671.0,37.0,14.0,12.0,93.5,FALSE,,Pending
+2024/06/07,East,Falcon Point,Qual,day,M023,NOAH DAVIS,511,431.0,,20.0,20.0,79.5,no,,Open
+,North,Granite Bay,Maintenance,night,m-017,Noah Davis,661,524.0,24.0,237.0,,75.6,FALSE,,closed
+2025-10-19 00:00:00,North,Iron Works,Packng ,night,m-028,liam brown ,600,658.0,31.0,0.0,32.0,104.5,Yes,D04,Open
+2025-10-31 00:00:00,East,Delta  Hub,Maintenance,Swing,M2,,861,803.0,45.0,0.0,9.0,88.0%,FALSE,D03,Open
+09/18/2024,North, Falcon Point, Maint ,Day,,liam brown,700,597.0,624.0,107.0,19.0,35.0%,TRUE,D03,Pending
+12/05/2024,West,Iron Works,Production,day,M7, Charlotte Clark ,209,289.0,4.0,16.0,33.0,108,TRUE,D02,Pending
+01/29/2025,West ,Iron Works,Qual,Night,m-034,,827,691.0,694.0,0.0,0.0,35,Y,D05,open
+2024-12-28,Nrth,Granite Bay,Packng,day,M-014,Ethan Harris ,718,635.0,33.0,209.0,33.0,83.8,Y,D01,closed
+2024-05-25 00:00:00,East,Alpha Plant,Quality ,day,m-039,M Garcia,868,849.0,1.0,39.0,30.0,97.7,Yes,,closed
+2024-04-16 00:00:00,West,Alpha Plant,Packaging,night,M002,John Smith,979,,72.0,137.0,6.0,101.7,FALSE,,Open
+2025-02-14,East,Granite  Bay,Packaging,,m-038, A. Johnson ,951,969.0,22.0,224.0,34.0,99.6,Y,D01,open
+2024-03-25,West,Delta Hub,Packng,swing,M17,James Moore,511,466.0,2.0,615.0,14.0,90.8,N,,closed
+11-Aug-2025,East,Alpha Plant,Packaging,,m-020,Emma  Wilson,1036,903.0,,730.0,35.0,81.8,yes,,closed
+31-Jan-2024,Nrth,Central Works,Maint,swing,, Logan Robinson,844,937.0,,73.0,24.0,106,Y,,open
+2025-03-27,East,Iron Works,Packaging,swing,,Maria Garcia,903,833.0,,0.0,19.0,86,yes,,Pending
+10/03/2025,East, Iron Works ,Qual,,,Ethan Harris,616,662.0,,130.0,,106.7,Yes,D04,open
+03-Sep-2024,East, Falcon Point,Maint,day,M-015,Liam Brown ,855,864.0,49.0,0.0,15.0,95.3,yes,D02,closed
+06-Feb-2024,South,Alpha Plant,Maintenance,Swing,m-010, James Moore ,660,745.0,14.0,0.0,,108,Yes,D02,Pending
+01-Dec-2025,South,Falcon Point,Packaging,Night,m-025,Lucas Jackson,419,262.0,18.0,0.0,2.0,58.2,yes,D03,Completed
+2024/08/10, West,Harbor unit,Logistics,day,M018,Charlotte Clark,909,846.0,46.0,145.0,13.0,88,,,Pending
+12/31/2024,West ,Harbor Unit,Quality,Night,M31, NOAH DAVIS,387,304.0,9.0,97.0,28.0,76.2,No,D05,Completed
+15-Nov-2025,North,Alpha Plant,Quality,day,, Henry Lewis,381,385.0,25.0,45.0,,94.5,yes,D03,Pending
+2024-10-15 00:00:00,North,alpha plant,Qual,night,M009, Ava Johnson ,453,335.0,21.0,40.0,1.0,69.3,no,,Closed
+2024-06-29,West,Delta Hub,Quality,Night,M-028, A. Johnson ,1177,1118.0,69.0,0.0,4.0,89.1,no,D03,Pending
+23-Jun-2024,South,BRAVO SITE ,Maintenance,Day,m-020,Elijah Thompson,223,243.0,14.0,208.0,29.0,102.7,N,D01,open
+2025-03-15 00:00:00,East,Harbor Unit,Packng,,M015,James Moore,806,708.0,33.0,47.0,23.0,83.7,TRUE,D03,Closed
+2024-12-01,East,Alpha Plant,Maint ,,M29,Henry Lewis,544,631.0,50.0,86.0,34.0,106.8,yes,,Pending
+2024-02-05,North,Harbor Unit,Production,swing,M017,,839,823.0,5.0,19.0,4.0,97.5,TRUE,,Completed
+2024-02-06 00:00:00,South,Delta Hub,Quality,swing,M026,Maria Garcia,393,350.0,0.0,25.0,10.0,89.1,N,,
+2024-07-04,north,Alpha Plant,Production,day,M-024, J. Smith,1061,1071.0,49.0,50.0,31.0,,no,,Open
+2024-01-24 00:00:00,East, delta hub,Quality,Night,M28,,899,1027.0,19.0,755.0,27.0,108,Y,D03,Pending
+2025-05-21,East,Central Works,Maintenance,,M-035, Charlotte Clark,871,988.0,55.0,69.0,29.0,107.1,FALSE,,Closed
+2025-12-11,Noth ,  Alpha Plant,Packaging,day,m-014,Charlotte Clark,1096,1032.0,64.0,0.0,19.0,88.3,FALSE,,Closed
+2024-03-29 00:00:00,East ,Alpha Plant, Packaging,Night,M12, Emma Wilson,666,635.0,5.0,0.0,21.0,94.6,N,,Completed
+28-Apr-2024, West,Evergreen line ,Packng,Night,m-035, Elijah Thompson,283,207.0,0.0,,23.0,73.1,Yes,,Open
+2025/05/01,East ,Falcon Point,Quality,,M029,Noah Davis,669,754.0,11.0,80.0,4.0,108,Y,D01,Completed
+02-Jul-2025,East,Evergreen line ,Maint,Swing,M013, A. Johnson ,799,806.0,60.0,88.0,8.0,93.4,Y,,Open
+04/15/2025, West , Falcon Point,Packaging,day,M-004,Sophia Taylor ,730,744.0,,48.0,,96.7,TRUE,D03,
+2024-06-24,South,delta hub,Logistics,Night,,NOAH DAVIS,1005,1041.0,1052.0,73.0,17.0,35,yes,D04,Pending
+24-Oct-2024,West ,Delta Hub,Quality,Night,M-015,Emma Wilson ,1100,1058.0,60.0,0.0,4.0,90.7,No,D05,open
+2025/03/09,North,delta hub,Production,Day,m-039,Sophia Taylor,1096,1021.0,,0.0,11.0,90.9,yes,D04,closed
+20-Jun-2025,North,Central Works,Maintenance,Swing,M26,Lucas Jackson,1139,1187.0,63.0,0.0,23.0,98.7,no,,Closed
+06/02/2025,North,Granite Bay,Production,night,M22,J. Smith,349,194.0,4.0,612.0,33.0,54.4%,,D01,Closed
+08/12/2024,Noth,Delta  Hub,Production,Swing,m-038,Sophia Taylor ,659,583.0,31.0,176.0,23.0,83.8,TRUE,D02,open
+28-Feb-2024,South,Granite Bay,production ,,, Emma Wilson,626,673.0,9.0,12.0,,106.1%,Y,,Closed
+06/22/2025,South,Falcon Point,Quality,swing,M014, A. Johnson  ,253,238.0,14.0,20.0,32.0,88.5,TRUE,D02,
+19-Dec-2024, South,Evergreen Line,Packaging,Swing,M013, NOAH DAVIS,247,112.0,4.0,213.0,25.0,43.7,yes,D05,closed
+28-Aug-2025,East,Alpha Plant,Quality,Day,M-028,Emma  Wilson,740,,48.0,0.0,4.0,91.9,TRUE,,Completed
+11/02/2025,Noth,Iron Works,production,,M-012,Mia Thomas ,385,232.0,2.0,0.0,16.0,59.7,No,D02,Open
+08-Oct-2025,West,Falcon Point,Maint,Day,M-027,Harper Martin ,539,394.0,24.0,13.0,,68.6,TRUE,D04,Closed
+05/20/2024,South,Bravo Site,production,,m-004,NOAH DAVIS,892,864.0,19.0,0.0,,94.7,Yes,,Pending
+2024-04-06,North,Central  Works, Maintenance ,,M018, James Moore,1151,993.0,61.0,212.0,16.0,81,yes,D05,Closed
+08-Dec-2025, west,Alpha Plant,Qual,Night,M18,J. Smith ,311,446.0,7.0,,,,no,D02,Pending
+01/15/2024,West,Iron Works,Maintenance ,swing,M-026,Liam Brown,664,775.0,29.0,169.0,17.0,108,Yes,,Completed
+2024/07/10, East,Harbor Unit,Packng,Night,M003,Logan Robinson,291,287.0,13.0,34.0,25.0,94.2,N,D02,Closed
+2024-09-03 00:00:00,East,Iron Works,Production,swing,M012,Olivia Miller ,225,308.0,17.0,751.0,13.0,108.0%,no,D02,closed
+2024/06/10,South,Harbor Unit,Quality,swing,M-006,Noah Davis,396,273.0,3.0,184.0,35.0,68.2,Yes,D05,Closed
+2025-06-21 00:00:00,East, Falcon Point,Production,,M-038,Olivia Miller,730,617.0,21.0,0.0,13.0,81.6,TRUE,D01,Open
+2025-05-17 00:00:00,East ,Evergreen Line,Logistics,Day,m-004,Emma Wilson,714,593.0,18.0,206.0,2.0,80.5,Y,D01,Closed
+2025/06/25,South, Falcon Point,Quality,night,m-009,Isabella Martinez,307,431.0,0.0,33.0,30.0,108,Y,D02,Pending
+2024-01-24,East,Harbor Unit,Production,,M023,Sophia Taylor,864,747.0,19.0,37.0,33.0,84.3,N,D02,Pending
+2024/02/05,north,Granite Bay ,Maintenance,night,M-019,Ethan Harris,920,799.0,63.0,0.0,32.0,80,TRUE,D04,Pending
+21-Feb-2025,North,Evergreen Line ,Packng,,M26,Emma  Wilson,379,306.0,5.0,77.0,15.0,79.4,Yes,,Pending
+28-Jun-2024,East,Central  Works, Packng,night,M036,Olivia  Miller,966,917.0,43.0,55.0,27.0,90.5,Yes,D04,closed
+2025-12-24,South,alpha plant,Quality,,m-015,NOAH DAVIS,766,821.0,48.0,37.0,29.0,100.9%,TRUE,,closed
+2025/06/16,West,Central Works,Quality ,night,M1,Liam Brown,321,448.0,18.0,234.0,7.0,108,TRUE,D03,Closed
+2024/08/17, North, Harbor unit,Quality ,swing,M034,Harper Martin,181,24.0,2.0,0.0,7.0,35,yes,D05,Closed
+2025/05/18,East ,Central  Works,Logistics ,night,M-007,John Smith,922,1004.0,6.0,89.0,,108,TRUE,,Open
+2025/02/09,South,BRAVO SITE,Packaging,night,M027,Mia Thomas,481,582.0,6.0,0.0,16.0,108.0,Yes,D05,
+,South,Central Works ,Logistics,swing,M-010,NOAH DAVIS,592,492.0,3.0,132.0,9.0,82.6,Yes,D02,Closed
+12/09/2025,North,Harbor Unit,Packng,,M35, Elijah Thompson ,927,884.0,69.0,76.0,32.0,87.9,yes,,Open
+02/09/2024, North,delta hub,Maintenance,Swing,M026,Henry Lewis,989,1101.0,1113.0,0.0,17.0,35,FALSE,,open
+2024/12/11,North, Falcon Point,Packaging,day,m-019,Olivia Miller,919,1006.0,43.0,152.0,14.0,104.8,Yes,D03,Pending
+2024-11-30 00:00:00,Noth, Alpha Plant, production,Swing,M039,John Smith,1027,1034.0,27.0,0.0,30.0,98.1%,yes,D04,Pending
+12/24/2025,North,Granite Bay,Production ,,M038,James Moore ,525,626.0,,,27.0,108,No,D03,closed
+2025-05-17 00:00:00,North,Central Works,production,Night,M-020, liam brown,327,422.0,14.0,235.0,,108,FALSE,D03,Pending
+2025-01-23 00:00:00, South,Delta Hub,Maint,swing,M037,Emma Wilson,338,470.0,20.0,65.0,24.0,108,N,D03,Closed
+19-May-2025, West, Harbor Unit,Production,swing,M021,Logan Robinson,404,326.0,9.0,10.0,,78.5,no,D05,Completed
+12/22/2025,East ,BRAVO SITE, production,Night,M018,Olivia Miller,1079,1109.0,45.0,168.0,2.0,98.6,no,,Closed
+26-Jan-2025,East,Falcon  Point,Production,day,,Logan Robinson,592,,11.0,163.0,21.0,80.1,FALSE,,open
+08/07/2024,South, Alpha Plant, Maintenance,day,m-032,Henry Lewis,912,1043.0,16.0,0.0,14.0,108,Y,,Closed
+2024/03/01, west,Central Works,Quality,Day,,liam brown,307,155.0,6.0,149.0,19.0,48.5,Yes,D01,open
+02/13/2024, North,Falcon Point,Packng,day,M022,Emma  Wilson,598,669.0,3.0,0.0,,108,Y,,Closed
+04/12/2024,East, Iron Works,Quality,Swing,M-033,Mason Anderson,498,507.0,1.0,0.0,31.0,101.6%,TRUE,D04,Open
+2025/05/11, Noth , Central Works, Packaging,day,m-002,Logan Robinson,671,803.0,29.0,200.0,32.0,108.0,TRUE,,Closed
+2024/11/07,north,Bravo Site,Maintenance,day,M11,Charlotte Clark,727,637.0,7.0,45.0,14.0,86.7,FALSE,D01,Closed
+13-Mar-2025, West ,Granite Bay,Quality,day,m-033, Harper Martin,225,318.0,20.0,36.0,35.0,108,yes,D05,Closed
+2025-02-08 00:00:00,South,Granite Bay ,Maint,day,M-036,,671,588.0,33.0,533.0,5.0,82.7%,No,,open
+09/21/2024,North,Central Works,Logistics,night,M36,Isabella Martinez,788,903.0,69.0,706.0,,105.8,FALSE,D04,Closed
+2025-03-08, North,Evergreen Line,Quality,night,M18, Ethan Harris,879,750.0,38.0,202.0,20.0,81,FALSE,D02,
+2025/01/13, West ,BRAVO SITE ,Maintenance,,, Ava Johnson ,444,491.0,8.0,52.0,3.0,108.0%,yes,D04,Open
+01-Sep-2025, South,Delta Hub,Packaging,day,m-011, Isabella Martinez ,1083,1106.0,1.0,0.0,,102,FALSE,D04,Open
+07/17/2024,West,Harbor Unit,Production,Day,M-013,Emma  Wilson,337,406.0,31.0,163.0,25.0,108,No,D04,closed
+12/19/2024, North,Falcon Point,production ,day,M37,Isabella Martinez,1192,1120.0,32.0,97.0,34.0,91.3,yes,,open
+2025/01/25, West,Central Works,Maint,night,M001, John Smith,907,876.0,16.0,71.0,28.0,94.8,Yes,,Pending
+2024/08/28,East, Alpha Plant,Production,,M38,Ava Johnson,1099,1222.0,,10.0,3.0,107.6,N,D01,closed
+2025/08/28,South,Iron Works,production,swing,m-012,Ava Johnson,455,535.0,571.0,199.0,12.0,35,Yes,D01,Closed
+03/15/2024,South,Granite Bay,Logistics,Night,,Sophia Taylor,982,1058.0,65.0,35.0,5.0,101.1,Yes,D01,Closed
+2025/12/22, South ,Harbor Unit,Maintenance,Day,M-036,,1100,1115.0,6.0,59.0,,100.8,no,D05,
+08/30/2025,South,Central Works,Quality,,M-035,NOAH DAVIS,501,,30.0,0.0,19.0,,FALSE,D05,Open
+03/02/2024,South,Evergreen Line,Maintenance,Swing,m-029,Lucas Jackson,595,,27.0,,14.0,91.9,N,D01,Completed
+,East,BRAVO SITE,production,Night,M-027,Liam Brown,199,111.0,4.0,118.0,11.0,,no,D04,Open
+12/28/2024,Noth,Delta Hub,Packng,,M022,Lucas Jackson,905,932.0,,702.0,,99.8%,Yes,D04,Completed
+, Sauth,Evergreen line ,production,day,M-012,M Garcia,453,357.0,,,23.0,77.5,Yes,D05,Completed
+29-Apr-2024,South,Granite Bay, Logistics,,M034,Harper Martin,270,306.0,7.0,162.0,21.0,108.0,Y,D05,closed
+2025/12/03,North,Alpha Plant,Qual,day,M33,Emma  Wilson,554,683.0,6.0,0.0,21.0,108,N,,Closed
+2025-11-01 00:00:00,South,GRANITE BAY,Maintenance,Day,m-027,Ethan Harris,396,303.0,16.0,21.0,12.0,72.5%,No,,closed
+2025/01/22,SOUTH, Alpha Plant,Production,Swing,M3,Amelia White,1065,925.0,20.0,0.0,1.0,85,TRUE,D02,closed
+09/11/2025,East,Harbor unit,Production,day,M6,Olivia Miller,565,490.0,8.0,103.0,7.0,85.3,N,D01,Open
+25-Jun-2025,East,Delta Hub,Packaging,Swing,M018,,691,738.0,46.0,59.0,17.0,100.1,yes,,Closed
+10/09/2024,North,Evergreen  Line,Production,day,M-002,Isabella Martinez,319,281.0,22.0,0.0,,81.2,no,,open
+20-Oct-2025, West,Alpha Plant,Production,swing,m-024,,1168,1091.0,,140.0,9.0,86,N,,Open
+2025-12-11 00:00:00,South,Falcon Point,Maint,Night,,Lucas Jackson,268,361.0,1.0,48.0,,108,no,D02,Completed
+2024/06/11,West,Iron Works,Logistics,Swing,M010, A. Johnson ,1029,971.0,979.0,0.0,35.0,35,Y,D03,Completed
+02-Nov-2025,East,Falcon Point ,production,day,m-031,Mia Thomas,230,269.0,20.0,0.0,,108,FALSE,,open
+2024-08-04,SOUTH ,Central  Works,Logistics,night,M-014,Elijah Thompson,785,789.0,63.0,52.0,,92.5,no,D04,open
+2025-09-09 00:00:00,West,Harbor Unit,Quality,,M35,Mason Anderson,273,308.0,6.0,86.0,,108,N,D01,Completed
+,South,Delta Hub,Maint,,M028,Mia Thomas,631,511.0,40.0,17.0,14.0,74.6,TRUE,D04,closed
+2025/06/22,West ,Bravo Site,Production,Swing,m-024,Charlotte Clark ,957,1084.0,28.0,89.0,30.0,108,No,,Completed
+2025-02-05 00:00:00,West,Central  Works,Packng,Night,M-009,Olivia Miller,374,383.0,20.0,0.0,5.0,97.1,,,open
+14-Oct-2024, west,Falcon Point, Maintenance ,night,M011,Isabella Martinez,570,708.0,9.0,11.0,31.0,108,No,D04,Pending
+2025-03-13 00:00:00,East,alpha  plant, Maintenance,night,m-009, Lucas Jackson,325,409.0,22.0,31.0,17.0,108,TRUE,D05,closed
+2024-02-21 00:00:00,East,Evergreen Line,Packng,Night,M005,,575,,14.0,0.0,,101.7,No,D01,Completed
+2024-08-18 00:00:00,East, Central Works ,Qual,Night,M38,Olivia Miller,792,709.0,37.0,,20.0,84.8,,,
+2025-01-21,West,GRANITE BAY, Maintenance ,Swing,,Lucas Jackson,964,1063.0,9.0,0.0,28.0,108,yes,D02,open
+09/29/2025, North,Delta Hub, Maintenance,swing,M-019,Logan Robinson ,920,911.0,23.0,101.0,,96.5,TRUE,,Closed
+29-May-2025,South , Falcon Point, Maintenance,,m-008,Isabella Martinez,1117,1211.0,67.0,40.0,24.0,102.4,No,D05,Closed
+18-Mar-2025,South,Delta Hub,Production,night,M4, A. Johnson ,612,661.0,44.0,601.0,10.0,100.8,N,D04,open
+2025-10-08 00:00:00,East ,Delta Hub,Maintenance ,night,M5,NOAH DAVIS,1166,1283.0,96.0,108.0,15.0,101.8,TRUE,D01,Completed
+2025-05-30 00:00:00,West,Falcon Point,production ,day,M-028,liam brown,891,787.0,37.0,68.0,19.0,84.2,no,,closed
+03/18/2024,North,Central Works,Packng,Day,,Amelia White,1156,1256.0,77.0,,15.0,102,Yes,D03,closed
+,East,Evergreen line ,production,,M-031,Isabella Martinez,746,763.0,55.0,43.0,,94.9,Yes,D03,Completed
+18-Jan-2025,North,Delta Hub,Quality,Day,m-021,Henry Lewis,348,342.0,12.0,0.0,22.0,94.8,,D02,open
+2024-03-10,South,Falcon Point ,Qual ,Day,,Maria Garcia,1131,1212.0,81.0,0.0,17.0,100,TRUE,,Closed
+2025-08-07,South,GRANITE BAY,Maintenance,night,M36, M Garcia,650,592.0,38.0,90.0,1.0,85.2%,yes,D02,Completed
+01/22/2025,north,Harbor unit,Qual,,m-027,Emma Wilson,1135,1058.0,50.0,0.0,25.0,88.8,no,,closed
+2025/08/29,East,Falcon Point,Quality,Night,M-014,Isabella Martinez,232,163.0,7.0,68.0,4.0,67.2,Y,D04,Closed
+2025-03-11 00:00:00, East ,Alpha Plant,production ,Night,M37,J. Smith,1126,1182.0,28.0,11.0,20.0,102.5,Y,,Completed
+2025-06-27,Sauth,Granite Bay ,Quality,Night,m-012,Liam Brown ,688,,25.0,0.0,32.0,88.4,yes,D03,Pending
+2024-09-18, North, Iron Works,Packaging,Day,m-007,M Garcia,442,317.0,,13.0,29.0,67,Yes,D02,Pending
+03-Oct-2024,North,Evergreen Line,Production,Night,M023,Olivia Miller,1072,1075.0,44.0,185.0,29.0,96.2,Yes,D02,Pending
+,East ,delta hub,Maint,swing,,liam brown,249,176.0,3.0,4.0,28.0,69.5,N,,closed
+2025-06-22 00:00:00,South, Central Works, Qual ,night,,James Moore ,621,511.0,13.0,19.0,,80.2%,Yes,D04,open
+2024-01-26 00:00:00,South,Evergreen Line, Maintenance ,Night,M-018,liam brown,1003,972.0,35.0,,10.0,93.4,N,D04,open
+2024/01/25, North ,Granite Bay,Quality,,M33,Harper Martin,1173,1081.0,44.0,74.0,,88.4,no,,Closed
+08/07/2025,North,Granite Bay, Logistics ,swing,M-010, Mia Thomas,934,1044.0,25.0,0.0,20.0,108.0%,No,D01,
+04-Oct-2025,East,Bravo Site,Packng,Swing,m-033,James Moore,335,295.0,15.0,74.0,29.0,83.6,TRUE,D01,Pending
+07/27/2024,East ,Alpha Plant,Packng,swing,M001,Amelia White ,511,473.0,26.0,48.0,16.0,87.5,,D01,Closed
+,South, Granite Bay,production ,Night,M013,J. Smith,898,907.0,14.0,0.0,20.0,99.4,TRUE,,Pending
+2025-03-05,West , Iron Works ,Qual,swing,M27, A. Johnson ,1191,1143.0,38.0,13.0,,92.8,TRUE,,Open
+02/07/2024,West,Central Works ,Logistics,night,m-026,J. Smith,602,497.0,19.0,,20.0,79.4,TRUE,,Open
+2025-08-23,South,  Falcon Point,Packng,,M-025, Olivia Miller ,1000,1054.0,51.0,226.0,,100.3%,No,,open
+2025-07-22 00:00:00,West,Falcon Point, production,day,M36,John Smith,604,467.0,6.0,0.0,22.0,76.3,N,,Completed
+2025-07-02 00:00:00, North, Evergreen Line ,Maintenance,day,M39,Harper Martin,382,470.0,14.0,53.0,0.0,108,Y,D01,Completed
+2024-01-05 00:00:00,North, Alpha Plant,production,Swing,M24,Amelia White,671,515.0,23.0,83.0,10.0,73.3,Y,,Completed
+2024-09-09 00:00:00,Sauth,Alpha Plant, Packaging ,swing,m-024,,745,757.0,48.0,17.0,28.0,95.2,Yes,D04,Open
+10/30/2024, Eest ,Evergreen Line,Packaging,Swing,m-014,Logan Robinson,1021,898.0,64.0,58.0,3.0,81.7%,yes,D02,open
+09/22/2024, west,Granite Bay,Packaging,day,M002,Isabella Martinez,186,203.0,16.0,159.0,26.0,100.5%,FALSE,D04,Closed
+2024-02-28 00:00:00,north, Iron Works, Quality ,day,M-030,Emma  Wilson,978,,,34.0,35.0,91.9,N,,Open
+2024/09/04,South , Harbor Unit , production ,night,M37,Ethan Harris,1117,,14.0,13.0,10.0,,,,closed
+2025-05-22,East,alpha plant,Packng,Day,M001, Ava Johnson,1197,1223.0,2.0,1.0,6.0,102,N,D05,closed
+2024/08/01,South ,Evergreen Line, production ,,M-009,James Moore,818,757.0,15.0,0.0,10.0,90.7,Y,,Open
+2025-02-14,North,Harbor unit,Qual,Swing,m-001,Olivia Miller,311,367.0,8.0,85.0,25.0,108,Y,D01,Open
+2025/11/22,West, Alpha Plant ,Packaging,swing,M023, Logan Robinson ,509,625.0,37.0,38.0,2.0,108,N,,open
+06/11/2024,North ,Central Works,Quality ,night,M-029, Amelia White,356,289.0,0.0,141.0,,81.2,Yes,D01,Open
+,West ,Granite Bay,Production,day,M-001,James Moore,317,239.0,14.0,156.0,2.0,71,TRUE,D01,Pending
+02/02/2025,South,Central Works,Production,day,M-002,Elijah Thompson,537,,18.0,196.0,30.0,93.1%,FALSE,D05,closed
+2024-10-27,East,Falcon Point, Quality ,day,M003,Ava Johnson,971,1085.0,28.0,199.0,2.0,108,yes,,open
+2024-09-19 00:00:00,South,Harbor unit,Production,swing,M-028,Maria  Garcia,1097,1149.0,16.0,104.0,4.0,103.3,Y,D02,Completed
+2025/09/21,West,Evergreen line ,Qual,,M17, NOAH DAVIS,196,298.0,20.0,27.0,2.0,108,no,,Open
+2024-03-23 00:00:00, East , Central Works,Packng,swing,M-039,Lucas Jackson,869,999.0,20.0,,13.0,108.0,TRUE,D02,open
+07/05/2025,South,Bravo Site,Maint,,M-020,Maria  Garcia,294,346.0,,103.0,17.0,108,TRUE,D03,Closed
+2025/06/12,West ,Iron Works ,Production,Day,M018,Henry Lewis,699,835.0,23.0,124.0,26.0,108,FALSE,,Closed
+14-Apr-2025,East, Evergreen Line,Qual,,M-018,Amelia White,552,,35.0,150.0,3.0,,yes,D02,Open
+, South,Bravo Site, Logistics ,Swing,M26,Harper Martin,798,908.0,9.0,39.0,11.0,108,N,,Open
+2024-03-09, North,Harbor Unit,Packng,Day,M011,John Smith,476,468.0,29.0,78.0,4.0,92.2,yes,D05,closed
+2025-01-13 00:00:00,Noth,Central  Works,Quality,Day,m-040, Liam Brown,591,704.0,0.0,0.0,0.0,108,FALSE,,closed
+07/17/2024,South,Bravo Site,Production,day,m-036,  A.  Johnson  ,395,470.0,19.0,212.0,28.0,108,No,,Completed
+2024-09-11 00:00:00,North,Harbor unit ,production,Day,M003,Logan Robinson,796,695.0,3.0,0.0,,86.9,yes,D02,open
+26-Feb-2024,West, BRAVO SITE,production,night,M25,Mia Thomas,1134,1071.0,59.0,,3.0,89.2,Yes,D05,
+01/07/2025,East,Granite Bay,Maintenance,Night,M-025, Mason Anderson,908,,7.0,0.0,,97.2,Yes,D02,open
+2024-01-09 00:00:00, west,Falcon Point,Qual,Day,M9,Elijah Thompson,818,937.0,,5.0,,108,N,D01,open
+12/22/2024, West,Granite Bay ,Logistics,Swing,,Olivia Miller,824,843.0,36.0,221.0,25.0,97.9,Yes,D04,Pending
+02-Aug-2024,North,Iron Works,Quality,day,M21,M Garcia,431,438.0,16.0,33.0,13.0,97.9%,No,,Pending
+05/27/2024,West,Central Works,Packaging,Night,M003, Emma Wilson,886,971.0,17.0,225.0,11.0,107.7%,Yes,D04,Pending
+2025-12-07 00:00:00,West,Delta Hub,Maintenance,day,M5,,530,434.0,,118.0,,81.3,TRUE,,Closed
+2024/05/15, Nrth ,Falcon Point,Logistics,,M032,Olivia Miller,1099,1192.0,86.0,116.0,27.0,,FALSE,D01,closed
+2025/03/02,East, Evergreen Line, production ,day,M20, J. Smith ,973,1036.0,16.0,61.0,6.0,,TRUE,,open
+09/18/2024,South,Alpha Plant,Packaging ,day,,Ethan Harris,769,798.0,59.0,76.0,17.0,96.1,No,D02,Completed
+06/20/2025,North,Harbor Unit,Production ,,,Mia Thomas,637,649.0,,140.0,,93.9,yes,D01,Pending
+01-Jul-2025,East ,Evergreen Line,Quality,Day,m-001,J. Smith,408,263.0,8.0,,27.0,62.5,N,D03,closed
+14-Oct-2024,West,Iron Works, Maint,night,m-033,Ethan Harris ,805,653.0,19.0,12.0,29.0,78.8,N,D04,Closed
+06-Aug-2024,North,Delta Hub ,Maintenance,day,,Emma  Wilson,852,736.0,51.0,233.0,9.0,80.4,No,D04,Pending
+, West ,Delta Hub,Packng,day,M010,M Garcia ,733,,47.0,136.0,20.0,74.5,No,D02,Closed
+2025-02-15,North,Granite Bay,Packaging,day,,James Moore,577,435.0,3.0,38.0,35.0,74.9,no,,Open
+2024-11-14,West ,Granite Bay,Packng,,M010,Mason Anderson,556,656.0,6.0,84.0,3.0,108,TRUE,D01,Open
+2025-05-25,South, Alpha Plant,Qual,swing,M-024,J. Smith,698,,22.0,132.0,10.0,89.1%,FALSE,,open
+03/28/2025,West,Evergreen Line,Maint,,m-026,James Moore,183,,10.0,65.0,,,Y,D02,Completed
+2025-02-27, west,Iron  Works,Logistics,night,m-020,,625,,,239.0,2.0,,yes,D01,Open
+2024-03-09,East,Harbor unit,Maintenance,Swing,M36,Emma Wilson,761,900.0,,48.0,22.0,108,N,,open
+22-Apr-2025, North,Iron Works,Maint ,Night,M35,,783,,8.0,0.0,18.0,99.2,Yes,D04,open
+09/26/2024,Noth, BRAVO SITE,Logistics,Day,,Amelia White,363,,2.0,0.0,27.0,,FALSE,,open
+2024-04-26 00:00:00,West,Delta Hub,Packng,,M28,Emma Wilson,956,902.0,39.0,0.0,11.0,90.3,Y,,Completed
+2024-06-30,East,Delta Hub,Qual ,day,M14,J. Smith,572,618.0,21.0,21.0,24.0,104.4%,no,,Open
+2024/11/27,North,Delta Hub,Packng ,day,M032, Amelia White,457,405.0,18.0,64.0,,84.7,TRUE,D01,Closed
+08/29/2025,East , Evergreen Line,Logistics,Swing,M19,Ethan Harris,966,958.0,56.0,87.0,10.0,93.4%,TRUE,D01,Closed
+2024/10/05,Nrth, Alpha Plant,Packng ,,M-011,Logan Robinson,400,483.0,,,6.0,108,FALSE,D03,Closed
+03-Mar-2024,North,Alpha Plant,Quality,swing,m-030,Elijah Thompson,892,976.0,12.0,0.0,,108.0%,Yes,D04,Closed
+2025-08-14 00:00:00,Noth, Falcon Point ,Packaging,,m-030,Lucas Jackson,473,399.0,,0.0,5.0,82.5,N,,Open
+2024-03-29 00:00:00,West,Granite Bay, Quality,swing,M-035,Emma  Wilson,646,565.0,8.0,696.0,0.0,86.2%,Yes,D04,Open
+2025-08-28 00:00:00, East ,Harbor Unit,Maintenance,night,M24,Maria Garcia,789,781.0,17.0,190.0,7.0,96.8,Y,D05,Closed
+23-Jul-2025,North,Harbor unit,production,Day,M-026,Mia Thomas,599,671.0,40.0,0.0,35.0,105.3,yes,D01,Pending
+2025-07-10 00:00:00,North,Alpha Plant ,Maint,night,m-026,Harper Martin,619,466.0,3.0,0.0,17.0,74.8%,Y,,Open
+2024-12-01,South,Falcon Point,Quality,Night,M9, A. Johnson ,727,740.0,18.0,154.0,31.0,99.3,yes,D02,Closed
+03-Feb-2024,East,Harbor Unit , Production,,m-025,Ava Johnson,1174,1124.0,29.0,133.0,,93.3,N,,Completed
+07/01/2025,West, Falcon Point,Maintenance,swing,m-006,Maria Garcia,966,844.0,48.0,,7.0,82.4,Y,,closed
+2024-05-21, west,Delta Hub,Packng,swing,M33,Olivia Miller ,567,671.0,41.0,111.0,18.0,108,Y,D01,open
+06/16/2024,East,Granite Bay,Logistics,day,,Ethan Harris,897,956.0,23.0,226.0,9.0,104,no,,closed
+09/20/2025,West,Alpha Plant,Qual,swing,,James Moore,631,770.0,16.0,0.0,7.0,108.0%,FALSE,D04,open
+2025-10-07 00:00:00,East ,Iron  Works,Maint,day,M35,liam brown,404,315.0,25.0,535.0,,71.8,TRUE,,Open
+04/05/2024,North,Alpha Plant,Quality,Swing,m-007,Olivia Miller,1109,1237.0,47.0,0.0,21.0,,Yes,D04,open
+23-Oct-2025,South, Alpha Plant,Production,,m-005,Harper Martin,900,844.0,13.0,46.0,27.0,92.3%,no,,Pending
+14-Mar-2025, East, Alpha Plant ,Maintenance,Swing,M-013,Charlotte Clark,741,829.0,842.0,19.0,10.0,35,TRUE,D02,Completed
+09-Sep-2025,West,Iron  Works,Logistics,swing,M26,Ethan Harris,242,86.0,0.0,18.0,9.0,35.5,yes,D03,Completed
+2024-03-31 00:00:00, Sauth, Alpha Plant,Maintenance,Day,M17,Henry Lewis,773,651.0,15.0,855.0,18.0,82.3,TRUE,,Completed
+2025/11/26,South,Central Works,Production,swing,M-025, Charlotte Clark,1031,993.0,2.0,63.0,26.0,96.1,N,,Open
+,East,Falcon Point,Maintenance,Day,M27,NOAH DAVIS,919,778.0,33.0,0.0,33.0,81.1,TRUE,,Pending
+31-Mar-2024,North, Falcon Point,Packaging,swing,M7,Noah Davis,217,235.0,6.0,,27.0,105.5,no,D02,Open
+2025/12/08,East,Evergreen line ,Packaging,Night,m-036,,707,552.0,44.0,0.0,20.0,71.9,FALSE,D03,closed
+2024-11-11,West,Alpha Plant, Maint,Day,M3,,718,777.0,55.0,0.0,11.0,,no,D01,Pending
+2025-03-09 00:00:00,East,Harbor Unit,Logistics,day,m-005,Ethan Harris,322,294.0,18.0,60.0,1.0,85.7,FALSE,D04,Completed
+2025/02/05,South,Evergreen Line,Logistics,swing,M-021, liam brown,1029,1022.0,30.0,225.0,33.0,96.4,no,,Pending
+2025-12-03 00:00:00,East, Alpha Plant ,Packaging,,M022,liam brown,184,147.0,0.0,42.0,7.0,79.9,yes,,Closed
+2024-08-16 00:00:00,East,Delta Hub,Production,day,M-025,Noah Davis,721,659.0,43.0,0.0,27.0,85.4,no,D01,Closed
+2025-03-17 00:00:00,West,Bravo Site,Maint,Night,M019,Lucas Jackson,426,276.0,7.0,0.0,31.0,63.1,No,D03,Closed
+2024-03-28,north,Bravo Site,Packaging,day,M8,Henry Lewis ,713,656.0,15.0,0.0,5.0,89.9,No,D03,closed
+,South,Alpha Plant,Quality,Day,,NOAH DAVIS,479,496.0,,0.0,17.0,95.4%,Y,,Pending
+2024-03-02,West,Delta Hub,production,swing,M20,,282,401.0,417.0,84.0,15.0,35,FALSE,D02,closed
+2025-08-21 00:00:00,North,Iron Works,Maintenance,Night,M029,Lucas Jackson,951,832.0,38.0,53.0,25.0,83.5,No,,Completed
+2024-08-11,West,Evergreen Line,Quality,day,,Logan  Robinson,180,171.0,,0.0,11.0,94.4,No,D02,Closed
+2024/02/14,West,Harbor Unit,Packaging,swing,M40,Maria Garcia,1109,1084.0,18.0,25.0,32.0,96.1,Yes,D04,open
+2024-09-06 00:00:00,North ,Delta Hub,Production,Night,m-032,M Garcia,276,324.0,3.0,123.0,11.0,108,Yes,D05,Open
+29-Oct-2024,East ,Bravo Site,Maintenance,Day,M007,Amelia White,560,664.0,,0.0,35.0,108,Yes,D01,Completed
+2024-12-11 00:00:00,South,Bravo Site, Packng,Night,M-009,James Moore,973,836.0,54.0,46.0,8.0,80.4,Yes,D02,Open
+2024-04-06 00:00:00,East,Bravo Site ,Packng,Day,M023,Henry Lewis,1092,1210.0,39.0,37.0,17.0,107.2,,D02,Pending
+2025/08/30,North,Delta Hub,Production,,M1,Emma Wilson,1193,1122.0,22.0,102.0,27.0,92.2,yes,D03,closed
+2024-06-28 00:00:00,East,Harbor Unit,Production,day,M31,Sophia Taylor,471,438.0,11.0,17.0,1.0,90.7,yes,D05,Completed
+09/21/2024,East,Harbor Unit ,Logistics,Swing,M-028,Amelia White,647,495.0,6.0,0.0,27.0,,TRUE,D01,Completed
+14-Nov-2024,South,Harbor Unit,Maintenance,,M019,Ethan Harris,226,135.0,4.0,208.0,34.0,58,,D03,closed
+26-Dec-2025,West,Delta  Hub, Packng,Night,M4,Liam Brown,681,756.0,24.0,17.0,,107.5,no,D03,Pending
+2024-10-19, East ,Granite Bay,production,day,M-014,Maria Garcia,1039,1136.0,17.0,222.0,16.0,107.7,FALSE,D04,Pending
+,East,Iron  Works,Packng,swing,M033,Harper Martin,1144,1194.0,4.0,0.0,2.0,104.0,yes,,Completed
+2024-01-17,West,Falcon Point,Packaging,night,M6,Mason Anderson,938,968.0,47.0,829.0,4.0,,FALSE,,open
+19-Aug-2024,North,BRAVO SITE, Qual ,day,m-035, A. Johnson  ,981,1079.0,28.0,68.0,26.0,107.1,No,D03,Open
+2024-04-09 00:00:00,South,Iron  Works,Packaging,Night,m-013,Ava Johnson,781,733.0,,70.0,3.0,87.7,No,D05,open
+2024-11-16,East,delta hub, production,Day,, A. Johnson ,507,580.0,45.0,196.0,19.0,105.5,yes,,closed
+02/01/2024,South ,GRANITE BAY,Quality,night,m-010, Mia Thomas ,721,660.0,31.0,677.0,14.0,87.2,,,Pending
+02/12/2025,West,Harbor unit,Packng,day,M040,Amelia White,889,903.0,2.0,81.0,32.0,101.3%,TRUE,D04,Closed
+01/18/2024,East,Iron  Works,Qual,swing,,Logan Robinson,392,400.0,16.0,138.0,35.0,98,Y,D02,Open
+23-Apr-2024,West,Delta Hub,Quality,night,M6,Lucas Jackson,719,670.0,23.0,65.0,34.0,90,Y,D03,open
+2024/12/08,East,Alpha Plant,Logistics,,M010,NOAH DAVIS,409,386.0,11.0,45.0,7.0,91.7%,Yes,,Pending
+12/07/2024,North,Evergreen Line,Logistics,Night,M-020, A. Johnson  ,1071,1023.0,30.0,230.0,,92.7,FALSE,,open
+20-Nov-2025,North,Bravo Site,production,Day,m-007,Emma Wilson,689,761.0,20.0,27.0,16.0,107.5,FALSE,D03,Closed
+2025/09/19,North,Delta Hub,production,Swing,m-022,James Moore,449,396.0,19.0,55.0,31.0,84,No,D03,open
+,East, Falcon Point,Maintenance,night,,John Smith,516,547.0,39.0,0.0,23.0,98.4,TRUE,D03,closed
+08/09/2024,north,Evergreen Line,Packaging,swing,M-010,Lucas Jackson,691,676.0,49.0,0.0,24.0,90.7,FALSE,D05,Completed
+2025/07/05,South,Delta Hub,Logistics,,M-001,M Garcia,399,377.0,30.0,0.0,,87,no,D03,Closed
+2025-06-19,Eest,Central Works,Quality,,M014,Mia Thomas,579,638.0,6.0,0.0,,108,FALSE,D02,open
+2024-08-09 00:00:00,East, Bravo Site ,Maintenance,,M-031,John Smith,635,694.0,49.0,204.0,16.0,101.6%,no,D03,closed
+04/15/2024,north,Delta Hub,Production,Swing,M8,Liam Brown,693,732.0,14.0,0.0,19.0,103.6,No,,open
+2025-02-15 00:00:00, East , Bravo Site,Qual,,m-014,Emma Wilson,994,835.0,14.0,3.0,29.0,82.6,N,,Completed
+12-May-2025,Nrth,Iron Works,Maint,day,,Sophia  Taylor,896,749.0,22.0,7.0,8.0,81.1,N,D03,Completed
+26-May-2025, West, Evergreen Line ,Production,,M-007,Charlotte Clark,1097,1072.0,43.0,38.0,34.0,93.8,FALSE,,Open
+02-Dec-2025,West,Harbor Unit,Packaging,Swing,M12,Emma  Wilson ,569,679.0,47.0,220.0,11.0,108,N,D02,Open
+2025-08-26,Sauth,Falcon Point,Quality ,night,m-034,Elijah Thompson,1131,1088.0,,0.0,24.0,35,yes,D03,Pending
+2025-03-10 00:00:00,East,Delta Hub,Maintenance,day,m-005,Emma  Wilson,743,854.0,57.0,0.0,8.0,,,D01,Open
+03/22/2024,West, Bravo Site,Quality,Night,M37,Emma Wilson,333,183.0,2.0,0.0,31.0,54.4,N,,Completed
+2024-12-09 00:00:00,West,BRAVO SITE, Maintenance,,M-029,Charlotte Clark,636,554.0,25.0,84.0,6.0,83.2%,no,D05,Closed
+2025-04-15,South,Harbor Unit,Maint,swing,M020,Mia Thomas,489,385.0,30.0,38.0,15.0,72.6,Yes,D05,Closed
+,West,Evergreen Line,Logistics,,M15, James Moore,842,691.0,8.0,0.0,3.0,81.1%,yes,D01,Pending
+2025-10-11,East,Harbor Unit,production,Night,M20,,247,354.0,19.0,42.0,17.0,108,TRUE,D05,open
+02/23/2024,South,Alpha Plant,Maint,swing,M22,Emma  Wilson,911,896.0,31.0,63.0,3.0,95.0%,no,D01,closed
+09/04/2024,North,delta hub,Logistics,Day,M-015,NOAH DAVIS,415,432.0,4.0,0.0,1.0,103.1,No,,Pending
+,East,Delta Hub,Production,Day,m-025,Ethan Harris,1095,1135.0,,,17.0,101,Yes,D05,closed
+2025/08/31,North,Granite Bay,Logistics,night,M10,John Smith,392,251.0,12.0,31.0,26.0,61,N,D04,closed
+18-Sep-2024,West,delta hub,Production,night,M-033,J. Smith,534,519.0,13.0,233.0,16.0,94.8,,,Completed
+,Sauth,Iron Works,Production,night,M031,,1039,1091.0,36.0,0.0,9.0,101.5,Yes,,Completed
+04-Oct-2024,South,Alpha Plant,Packaging,,m-003,Isabella Martinez,603,,,0.0,24.0,99.8,TRUE,,closed
+11/30/2024,North, Harbor Unit, Qual,Day,M-038,Emma  Wilson ,323,405.0,20.0,212.0,0.0,108,FALSE,D04,open
+2025-02-23 00:00:00,North,Evergreen line ,Packaging,,M-018,Amelia White,753,875.0,27.0,16.0,5.0,108,FALSE,D04,Closed
+07-Aug-2024, East,Alpha  Plant,Logistics,day,M-006,Logan Robinson,1058,1128.0,,,15.0,99.1,TRUE,D04,open
+,South,Evergreen Line,Maint,Day,M-028,Sophia Taylor,438,542.0,0.0,528.0,29.0,108,FALSE,D02,Closed
+27-Aug-2024,Eest,Evergreen Line,Maintenance,day,M34,M Garcia,548,512.0,,74.0,25.0,92.9,no,D04,Closed
+18-Oct-2025,East,Iron Works, Packaging,Swing,m-016,Elijah Thompson,283,367.0,26.0,0.0,7.0,108,Y,,open
+2024/02/26,South,delta hub,Logistics,,m-004,Isabella Martinez ,265,272.0,13.0,0.0,16.0,97.7,No,D05,
+22-Jun-2025,South,Bravo Site,Packaging,Day,M015,Noah Davis,924,967.0,15.0,81.0,14.0,103,Y,D03,closed
+2025-12-01 00:00:00,South,Alpha Plant, Packng,night,M4,Emma Wilson,712,694.0,,196.0,34.0,95.4%,yes,D01,Open
+07-Jan-2024,South, Bravo Site,Packaging,day,M23,Harper Martin,359,362.0,19.0,,12.0,95.5,Y,D02,open
+06/24/2024, East ,Alpha Plant,Maintenance,Swing,M028, Mia Thomas,998,894.0,,0.0,28.0,83.6,Y,D02,
+04/07/2025,Nrth, Harbor unit,production,swing,M36, Mason Anderson,317,223.0,1.0,,17.0,70,Yes,,Completed
+26-Feb-2025,East ,BRAVO SITE ,Packng,Swing,m-016, liam brown,1030,957.0,75.0,510.0,26.0,85.6,FALSE,,Open
+2024/06/30, South ,Delta Hub,Qual,,m-029,Henry Lewis,591,451.0,,684.0,34.0,71.6,No,,closed
+2025/08/07,West,Harbor unit,Packng,swing,M16,Henry Lewis ,655,514.0,6.0,0.0,13.0,77.6,Y,,closed
+2025-10-29 00:00:00,East,Evergreen Line,Quality,,M9,Mia Thomas,287,406.0,16.0,152.0,3.0,108,FALSE,,closed
+2025/12/21,East,delta hub,Packaging,swing,M-025,M Garcia,981,,46.0,57.0,31.0,,N,D05,Open
+02/14/2024, North ,Delta Hub, Packaging,day,M23,Maria Garcia,925,860.0,17.0,179.0,29.0,91.1,No,D02,closed
+2024-01-15 00:00:00,North,Falcon Point,Qual,Day,m-032,Olivia  Miller,1042,1096.0,56.0,,34.0,99.8,yes,,Completed
+, North ,Iron  Works,Quality,Day,M036,NOAH DAVIS,368,284.0,14.0,0.0,,,No,,Closed
+2025/06/07, west ,Iron Works,Production,Night,m-038,,418,495.0,17.0,204.0,35.0,108,FALSE,D04,open
+,South, Harbor unit,Maintenance,Night,, Elijah Thompson,447,294.0,22.0,74.0,29.0,60.9,FALSE,D02,closed
+2024/09/25,SOUTH,Granite Bay,production,Day,M15,Charlotte Clark,316,441.0,,177.0,25.0,,No,,open
+,East,Falcon Point,Logistics,,m-025, Emma Wilson,861,848.0,,29.0,,96.2,N,,Open
+,East,Evergreen line ,Logistics,Day,M026,Maria Garcia,939,1072.0,77.0,14.0,24.0,106.0,Yes,D05,open
+24-Nov-2025,South, Iron Works,Production,Night,M-009,Mia Thomas,614,715.0,42.0,0.0,,108,TRUE,D05,Pending
+10-Sep-2024,South,Granite Bay,Logistics,night,m-033,NOAH DAVIS,1137,1210.0,61.0,32.0,11.0,101.1,yes,D04,Closed
+09/12/2024,South,Delta Hub,Production,,M-015,Noah Davis,708,561.0,17.0,140.0,15.0,76.8,Y,D04,Pending
+,East,Falcon Point, Quality,Day,M34,Maria Garcia,313,192.0,0.0,23.0,34.0,61.3,no,D03,Open
+20-Jun-2024,West,Harbor unit, Qual ,Night,M31,Sophia Taylor,1014,1130.0,58.0,0.0,1.0,105.7,no,D04,open
+31-Dec-2025,West,BRAVO SITE,Production,Night,M15,Harper Martin,965,823.0,42.0,45.0,,80.9,FALSE,D01,Pending
+17-Mar-2025,South,Falcon Point,Quality,day,M006,Maria  Garcia,691,647.0,,9.0,34.0,,,,Closed
+10/13/2024,East,Falcon Point,Qual,Day,M6,Isabella Martinez,1037,978.0,1007.0,21.0,4.0,35.0,Y,D01,Pending
+2025-12-27,North,Central Works, Production ,swing,,  A. Johnson  ,369,256.0,,186.0,,66.4,FALSE,,Completed
+,East,Delta Hub,Packng,day,M-027,James Moore,1127,1211.0,32.0,0.0,,104.6,Yes,D05,Closed
+2025-08-15,North, Falcon Point,Logistics,Swing,M-036,Isabella Martinez,568,619.0,23.0,0.0,2.0,104.9,no,,open
+2024/06/06,North,Harbor Unit,Production,,,Henry Lewis,546,621.0,4.0,0.0,,108.0,Yes,D05,Closed
+2024/07/21,East,Iron  Works,Maintenance,Swing,M-021,NOAH DAVIS ,435,368.0,6.0,209.0,31.0,83.2,N,D02,Closed
+2025-03-25 00:00:00,South,Alpha Plant ,Qual,Day,M-035,  A.  Johnson  ,552,657.0,,75.0,17.0,108,FALSE,,Pending
+05/27/2025,West,Central  Works,production ,day,M34,Elijah Thompson,1173,1139.0,32.0,204.0,17.0,94.4,FALSE,,closed
+2025-09-11 00:00:00,West,  Falcon Point ,Packaging,Swing,m-017,Amelia White,767,650.0,23.0,0.0,16.0,81.7%,No,D04,Pending
+2024/11/22,SOUTH,Bravo Site ,Quality,Swing,m-037,Ava Johnson,779,713.0,43.0,27.0,10.0,86,N,,Completed
+2025-08-10 00:00:00,Eest,Iron Works, Quality,swing,m-026, A. Johnson ,1197,1321.0,26.0,40.0,29.0,108,FALSE,D02,open
+2025-05-22 00:00:00,Eest,Granite Bay,Logistics,Night,M24,Mason Anderson,649,491.0,35.0,,11.0,70.3,N,,open
+2025/12/22,West, Falcon Point,Packaging,swing,m-024,Henry Lewis,962,1024.0,,,32.0,98.8,yes,D04,Open
+02/02/2025,Sauth ,GRANITE BAY,Packaging,Night,m-004,Olivia Miller,859,829.0,47.0,0.0,2.0,91,N,,Open
+2025-08-16,North,Central  Works,Packng,night,M24,J. Smith,392,284.0,7.0,89.0,0.0,,yes,,Pending
+16-May-2025,South,Alpha  Plant,Packaging,night,M016,Isabella Martinez,861,977.0,59.0,45.0,13.0,106.6,Yes,D04,Pending
+,South ,Granite Bay,Packaging,night,,Logan Robinson,1028,1158.0,68.0,71.0,5.0,106.0%,no,D04,Open
+2025-02-03 00:00:00,north,Granite Bay,Production,Night,M036,Isabella Martinez,852,928.0,23.0,191.0,28.0,106.2,FALSE,,Pending
+2024-10-05 00:00:00,Sauth,Bravo Site,Packaging,Swing,M16,Sophia Taylor,608,670.0,53.0,0.0,14.0,101.5,Y,D02,Open
+2024-12-03,East,GRANITE BAY,Packaging,day,M-022,James Moore,361,258.0,3.0,0.0,,,TRUE,D05,Open
+2025/03/01, North,Falcon Point,production,Day,M-019,Amelia White,911,,14.0,0.0,21.0,,no,D01,open
+2024-07-27, East,Central  Works,production,day,M1,Ava Johnson,904,827.0,834.0,0.0,14.0,35,yes,,Closed
+2025/10/20,West,Alpha Plant,Maintenance,,M-007, A. Johnson ,244,,,85.0,14.0,108.0%,No,D05,Pending
+07/08/2025,East,Alpha Plant,Maintenance,day,m-035,Maria Garcia,898,776.0,31.0,4.0,17.0,83,TRUE,,Closed
+2024-04-08 00:00:00,North ,Central Works,Packng,Day,M39,Maria Garcia ,580,566.0,,107.0,24.0,91.9,Y,D02,Pending
+2024-01-01 00:00:00,South,Delta Hub,Packng,,M-008,Noah Davis,713,717.0,33.0,84.0,28.0,95.9,N,,open
+08-May-2025,West ,Granite Bay,Packaging,night,m-019,Ethan  Harris,785,903.0,38.0,0.0,33.0,108.0%,No,D05,Open
+12-Sep-2024,East,Iron Works, Maintenance,day,M-013,NOAH DAVIS,437,449.0,,52.0,,94.7,TRUE,D05,closed
+2025-04-17,Nrth, Bravo Site,Production,,m-035, A. Johnson ,499,477.0,13.0,208.0,7.0,93,no,D02,Open
+,Noth,Iron  Works,Logistics,Swing,,M Garcia,1068,931.0,26.0,0.0,20.0,84.7,yes,D05,closed
+2024-09-24 00:00:00,East,Central  Works,Quality,Swing,m-028,,905,855.0,,38.0,27.0,91.7,No,,Pending
+2025-12-27,West,Harbor Unit,Maint,night,m-038, Logan Robinson,561,694.0,10.0,63.0,6.0,108,,,closed
+2024-01-01 00:00:00,East,Alpha Plant,production,day,M15,Maria Garcia,495,479.0,12.0,63.0,4.0,94.3,no,,Pending
+2024-06-09,East,Iron Works,Packng,,M33,Elijah Thompson,966,1056.0,15.0,39.0,,107.8,yes,,Pending
+2025-06-14,South,Delta Hub,Maintenance,Day,M-022,Emma  Wilson,635,673.0,16.0,167.0,22.0,103.5,N,D04,open
+01/30/2024,West,Harbor unit,Logistics,Swing,M26,James  Moore,666,619.0,3.0,0.0,24.0,92.5,Yes,D01,Completed
+2024-04-22,East,Evergreen Line,Packaging,Night,M-027, Harper Martin,878,885.0,38.0,72.0,30.0,96.5,No,,Open
+2025/10/22,Nrth,Alpha Plant, Quality,Day,m-034,Olivia Miller,782,888.0,13.0,58.0,32.0,,Yes,,closed
+2024/09/19,East ,Evergreen line ,Qual ,night,M003,Henry Lewis,431,313.0,23.0,79.0,16.0,67.3%,FALSE,,Open
+2024-01-27,East,alpha plant,Production,Swing,M32,Charlotte Clark,300,214.0,11.0,566.0,,67.7%,Y,D03,closed
+2024-07-08 00:00:00,East,Iron Works,production,,M-021,Noah Davis,1071,,59.0,67.0,5.0,96.8,FALSE,D01,closed
+2025-04-02 00:00:00,South, Alpha Plant,Production,,M27,liam brown,629,637.0,49.0,165.0,11.0,93.5,no,D03,Closed
+2024-06-05 00:00:00,South,Falcon Point,Qual,,m-014,M Garcia,682,597.0,25.0,211.0,7.0,83.9%,TRUE,,Pending
+11-Jun-2024,East,  Alpha Plant,Qual,night,M11,Maria Garcia,275,411.0,14.0,0.0,15.0,108,Y,D01,closed
+2025-04-05 00:00:00,West,Central Works,Logistics,,M39,Harper Martin,712,602.0,26.0,0.0,17.0,80.9,TRUE,D05,closed
+2024-11-30 00:00:00,West,Bravo Site,production,night,m-009,Elijah Thompson ,518,581.0,41.0,0.0,24.0,104.2,FALSE,,Pending
+2025-12-03 00:00:00,North, Falcon Point,Packaging,Swing,m-003,Sophia Taylor,999,1005.0,57.0,171.0,,,FALSE,,closed
+2025-02-22,South,Alpha Plant,Maintenance,night,,Lucas Jackson ,563,454.0,20.0,0.0,16.0,77.1,Y,D05,Closed
+2025-05-30,East,GRANITE BAY ,Packaging,,M006,Ethan Harris,1021,960.0,0.0,0.0,,94,Y,D02,open
+,SOUTH,Delta Hub,Maint,,m-038,Ethan Harris,645,645.0,0.0,96.0,2.0,100,FALSE,,Closed
+11/07/2024,East, Evergreen Line , Production,,M-029,Noah Davis ,250,123.0,4.0,0.0,14.0,47.6,no,,closed
+2025-01-22 00:00:00,South,Harbor Unit,Logistics,,m-019,liam brown,799,866.0,45.0,,,102.8%,FALSE,,Open
+2024-05-11,North, GRANITE BAY,Maint,day,M34,Elijah Thompson,1181,1217.0,8.0,0.0,1.0,102.4,Yes,D04,Pending
+2025/07/30,South,Evergreen line  ,Packaging,,M8,Sophia Taylor,882,779.0,52.0,0.0,23.0,82.4,yes,D05,Closed
+2024-03-23 00:00:00,SOUTH,Iron  Works,Qual,night,M028,Henry Lewis,806,748.0,24.0,81.0,24.0,89.8,Y,D02,Closed
+09-Dec-2024,East,Delta Hub,Packng,Day,M030,Sophia Taylor,1107,951.0,72.0,180.0,3.0,79.4%,no,,Pending
+2024/10/05,north ,Bravo Site,Logistics,night,M24,Mia  Thomas,413,549.0,17.0,7.0,,108.0,Y,D03,Pending
+06/15/2024,North,delta  hub,Logistics,Day,M-027,James Moore,183,114.0,3.0,49.0,10.0,60.7,yes,,closed
+2024/03/28,East,Bravo Site,Packaging,,M-006,Liam Brown,721,732.0,12.0,55.0,0.0,99.9,N,D03,Completed
+2024/06/15,South,Bravo Site,Logistics,swing,m-008,Noah Davis,1020,875.0,38.0,6.0,19.0,82.1,TRUE,D01,Open
+06-Feb-2025,South,Iron Works,Logistics,day,,Emma Wilson,668,,558.0,85.0,34.0,35,no,D02,Open
+2025-03-23,South,Central Works,Packaging,day,M030,Henry Lewis,942,1054.0,,55.0,14.0,108,Yes,,closed
+2025-11-05 00:00:00,East, Central Works ,Qual,Swing,M7, A. Johnson ,771,,44.0,53.0,8.0,100,Yes,D03,Pending
+2024-05-25, west,Harbor Unit,Qual,,M032,Mason Anderson,324,285.0,13.0,129.0,2.0,84,,,Closed
+2025-03-03 00:00:00,North,Iron Works, Maint ,Day,,Mason Anderson,484,604.0,45.0,0.0,,108,No,D03,open
+28-Apr-2025,West,Harbor Unit,Packaging,Swing,M-039,Charlotte  Clark,958,873.0,,157.0,29.0,89.5,No,,open
+12/03/2025,North,Falcon  Point,Logistics,Day,M-029,Mia Thomas,211,306.0,18.0,39.0,15.0,108,Yes,D03,open
+2025/11/20,SOUTH,alpha plant,Maintenance,Day,m-012, A. Johnson ,507,483.0,2.0,66.0,,94.9,Y,D02,Pending
+21-Sep-2024,West,Granite Bay,Packng,night,,James Moore,756,876.0,10.0,15.0,,108,N,D05,Pending
+2024-09-27 00:00:00,South,Harbor Unit,Qual,Night,M-005,,1124,1146.0,47.0,0.0,5.0,97.8,no,D02,Pending
+2024-05-19 00:00:00,East,Harbor unit , Qual,Day,m-036,Lucas Jackson,503,560.0,26.0,40.0,19.0,106.2%,No,,Open
+2025/01/01,north,Iron Works,Logistics,day,M038,Logan Robinson,365,,15.0,128.0,17.0,91.2,yes,,closed
+2025-10-09 00:00:00,South,Evergreen Line,Packng,Swing,M16,Elijah Thompson,941,910.0,56.0,106.0,6.0,90.8,no,,open
+2024-04-19,North,Alpha Plant,Logistics,Swing,,Noah Davis,721,,9.0,0.0,13.0,92.8,Y,D04,Pending
+2024/09/28,West, delta hub ,Quality,swing,M23,,402,359.0,28.0,17.0,13.0,82.3,N,D02,Open
+2024-11-14 00:00:00,West ,GRANITE BAY ,Maintenance,Day,M21,Noah  Davis,709,723.0,49.0,58.0,23.0,,Yes,,closed
+13-Jan-2024,North,Iron  Works, Packaging ,Night,M-022,Liam Brown,353,336.0,7.0,56.0,27.0,93.2%,N,D05,closed
+01/21/2025,North,Granite Bay,Maintenance,Swing,m-040, Elijah Thompson,639,610.0,28.0,71.0,26.0,91.1,no,D03,
+2024-03-10,West ,Harbor Unit,production ,,M-038,Noah Davis,1001,,47.0,153.0,8.0,,,,Open
+,West ,Delta Hub, Packaging,Day,M25,liam brown,308,411.0,17.0,178.0,28.0,108,TRUE,,Completed
+2025/07/06,South ,Central  Works,Packng,,M008,,921,1016.0,35.0,0.0,16.0,106.5,no,D04,Pending
+24-Aug-2024,West, Granite Bay,Qual ,night,M-012,Maria Garcia,770,653.0,25.0,194.0,25.0,81.6,FALSE,D04,Open
+, west,Delta Hub,Production,Day,m-035,Elijah Thompson,417,526.0,17.0,0.0,27.0,108,No,D05,Open
+2024/04/01, East,Central Works,Logistics,swing,M20,Emma Wilson,852,815.0,50.0,238.0,15.0,89.8,Yes,D01,Completed
+09/27/2025, West ,Evergreen Line,Maintenance ,Day,M-023, Mason Anderson ,500,405.0,12.0,0.0,8.0,78.6%,Y,D05,Pending
+2025-09-06 00:00:00,Eest ,Delta Hub,Maint,Night,m-022,Ava Johnson,397,363.0,16.0,81.0,,87.4,N,,open
+25-Dec-2025, West ,Bravo Site,Production,Day,m-024,Ava Johnson,232,143.0,,0.0,14.0,,TRUE,D02,Open
+2024-06-13,West,Iron Works,Packaging,Swing,,Maria Garcia,946,1074.0,53.0,0.0,0.0,107.9,yes,D02,Pending
+2024-10-07 00:00:00,West,Bravo Site,Packng,,m-037,Ethan Harris,1002,1057.0,28.0,78.0,26.0,102.7,Y,D05,Open
+2025-05-06,North,GRANITE BAY ,Packng ,Day,M013,J. Smith,1119,1259.0,92.0,,,104.3,FALSE,D01,Completed
+03-Nov-2025,Noth,Central Works,Qual,Day,M031,Charlotte Clark,481,576.0,43.0,56.0,19.0,108,Y,D01,Pending
+2025-11-27 00:00:00,West,Iron Works,Maintenance,Swing,m-040,Ethan Harris,426,395.0,27.0,31.0,,86.4,TRUE,,Open
+,East ,BRAVO  SITE,Maint,,M006,Emma Wilson,796,,39.0,11.0,10.0,90.8,,D01,open
+2025/01/20,West,Bravo Site,Production,swing,m-003,Henry  Lewis,1069,1084.0,27.0,49.0,16.0,98.9,Yes,D05,Open
+22-May-2024, South ,Alpha Plant ,production,night,M-009,Liam Brown,879,898.0,,18.0,10.0,95.7,Yes,,Open
+17-Mar-2024, West,Central  Works,Packaging,swing,M-001,Emma Wilson,242,257.0,,5.0,,102.1,N,D04,Completed
+2025-09-02 00:00:00,West,Iron Works,Maint,Day,,Logan Robinson,220,246.0,9.0,0.0,17.0,107.7,no,D01,Pending
+2024-04-08 00:00:00,East,Iron Works,Packaging,Night,m-012,Logan Robinson,675,534.0,6.0,0.0,30.0,78.2,Yes,,closed
+09-Mar-2025,Nrth,Central Works,Qual,,M-004,Olivia Miller,380,490.0,24.0,0.0,15.0,108,yes,D02,
+2025/01/06,North, Evergreen Line ,Quality,night,m-027,J. Smith,998,898.0,39.0,0.0,6.0,86.1,FALSE,D05,Pending
+2024-11-19 00:00:00,South,Harbor unit ,Quality,Swing,m-011,Maria Garcia,1008,,9.0,61.0,11.0,89.3,no,,Open
+05/17/2025,South ,delta hub,Maintenance,day,M015, Emma Wilson,792,650.0,0.0,222.0,0.0,82.1,TRUE,D01,Pending
+02/05/2025,West,Harbor Unit, Packng ,,M035, Ethan Harris,194,277.0,15.0,185.0,22.0,108.0%,yes,,Pending
+2025-01-27 00:00:00,East ,Evergreen Line, Packng,,M039,Lucas Jackson,615,462.0,26.0,83.0,,70.9,FALSE,D03,Open
+12/27/2024,South,Granite Bay,Maintenance,night,, John Smith,924,843.0,21.0,89.0,3.0,89,no,D02,closed
+2025-03-20 00:00:00,East ,Delta Hub, Packng,Day,M016,liam brown,945,870.0,7.0,41.0,13.0,91.3,N,D04,closed
+03/09/2024,North,Iron Works ,Qual,swing,m-014,James Moore,212,349.0,,190.0,29.0,108,,D04,Completed
+26-Mar-2025,Eest, delta hub,Qual,Night,M033,NOAH DAVIS ,468,362.0,3.0,39.0,10.0,76.7,No,,closed
+02/07/2025,West,Evergreen Line,Production,night,M25,liam brown,852,842.0,55.0,0.0,,92.4,no,,open
+09-Mar-2025,East,Delta Hub,Packng,day,M28, Isabella Martinez,223,190.0,3.0,1.0,8.0,83.9,yes,D02,Completed
+01/14/2025,North,BRAVO SITE,Logistics,day,M37,Ava Johnson,501,402.0,7.0,0.0,26.0,78.8,Y,D01,Pending
+02/03/2025,north,Harbor  Unit,Qual,Swing,m-001,  A. Johnson ,388,283.0,2.0,0.0,1.0,72.4,N,,Closed
+2024-09-05,North,BRAVO SITE,production,,m-040, Isabella Martinez,1034,,27.0,90.0,32.0,,TRUE,D01,Completed
+21-Jul-2024, South,Harbor Unit,Packaging,Night,M-035,Emma Wilson,862,757.0,9.0,0.0,28.0,86.8,No,D03,Pending
+2025/12/21,East,Harbor Unit,Logistics,Day,M-003,Henry Lewis,1149,1187.0,72.0,34.0,1.0,97,Yes,D05,Closed
+2025-01-27 00:00:00,North,Iron  Works,Logistics,day,m-019,Amelia White,288,,14.0,185.0,28.0,108,FALSE,,closed
+, west,Iron  Works,Logistics,day,m-037, Mason Anderson,185,199.0,,172.0,15.0,100.5,FALSE,D04,open
+10/16/2024, west,Central Works,Packng,swing,M-038,Lucas Jackson,429,474.0,14.0,4.0,,107.2,Y,D05,open
+2025/03/16, South,Central  Works,Maintenance,night,M-011,Lucas Jackson,217,255.0,16.0,0.0,,108,Y,,open
+2024-08-21,East ,Central Works,Qual,day,M-024,Mason Anderson,240,159.0,7.0,0.0,11.0,63.3,Yes,,Closed
+2024-11-18 00:00:00,North,Iron Works,production,Night,M-028,J. Smith,933,994.0,31.0,0.0,27.0,,No,,Completed
+2025/07/02,West,Evergreen Line,Maintenance,Night,M31,  A. Johnson  ,736,579.0,12.0,86.0,9.0,77,Y,,Completed
+2024-09-13,North,Iron Works , Packaging ,swing,m-025,Ethan Harris,1068,956.0,46.0,0.0,10.0,85.2,N,,open
+2024-01-21,East,BRAVO SITE,Maintenance,Day,M19,Ava Johnson,770,697.0,34.0,76.0,,86.1,yes,,closed
+2024-10-24 00:00:00,West, Alpha Plant ,Logistics,Swing,M-033,liam brown,948,789.0,42.0,0.0,,78.8,Y,D04,Open
+,north,Alpha Plant,Logistics,Swing,m-006,NOAH DAVIS,972,1080.0,44.0,70.0,,106.6,No,,closed
+2025-03-27 00:00:00,North, Delta Hub,Maintenance,swing,M016,Mason Anderson,1073,1113.0,15.0,53.0,21.0,102.3,FALSE,D01,Closed
+10/21/2024,Sauth ,Central  Works,Maintenance ,,M-007,Elijah Thompson,749,799.0,16.0,16.0,21.0,104.5,TRUE,D05,Completed
+2025-02-07, East,Central  Works,production,Night,M28,Logan Robinson,567,436.0,30.0,0.0,0.0,71.6,N,,closed
+01/10/2025,West,Falcon Point,Packaging,,M37,Ava Johnson,318,361.0,20.0,0.0,35.0,107.2,FALSE,D04,open
+2024-01-21,West,Bravo Site,Packng,Night,M29,Liam Brown,480,376.0,15.0,54.0,,75.2,FALSE,D02,open
+2025-06-26,West, Alpha Plant,Quality,swing,,Maria Garcia,479,370.0,11.0,148.0,,74.9,Y,D05,Pending
+2024/07/30,East,Falcon Point,Packaging,swing,M021,liam brown,940,916.0,62.0,0.0,23.0,90.9,Yes,D02,Closed
+11-Apr-2024, Noth ,Central Works,Production,Night,,liam brown,598,641.0,29.0,127.0,9.0,102.3,Y,D01,Completed
+2024-04-20,West,Alpha Plant,Maintenance,swing,M11,,507,526.0,11.0,820.0,30.0,101.6,yes,D03,Open
+03/27/2025,West,Falcon Point,Maintenance,Night,m-005,Emma  Wilson,191,209.0,220.0,0.0,,35,N,,Pending
+01-Oct-2025,East,Alpha Plant,Packng ,Day,,Logan Robinson,1197,1289.0,20.0,0.0,,106,yes,D04,closed
+2024-01-19 00:00:00,North,Falcon Point,Maint,swing,M-005,Ethan Harris,511,614.0,37.0,42.0,,108,No,,Pending
+11-Jun-2024,North,delta hub,Qual,swing,M-033,Mason Anderson,232,306.0,8.0,215.0,,108,FALSE,D02,
+07/19/2025,East,Central  Works,Production,Swing,M-037,John Smith,1119,1209.0,12.0,0.0,23.0,107,N,D01,closed
+2025-10-12 00:00:00,North ,Evergreen Line,Maint,swing,,James Moore,1193,1273.0,95.0,0.0,1.0,98.7,Y,,Closed
+2025/07/18,South ,Central  Works,Maintenance ,Night,M24, Maria Garcia ,415,515.0,29.0,0.0,34.0,108,yes,D05,closed
+17-Jan-2024,South,Evergreen line ,production,swing,M-034,NOAH DAVIS,956,942.0,75.0,47.0,19.0,90.7,No,D05,Completed
+02/22/2024,South, Alpha Plant, production,Day,M4,Ava Johnson,269,252.0,,113.0,32.0,,,D03,Pending
+2024/10/06,West , Falcon Point,Maint,Swing,M29,Olivia Miller,340,269.0,21.0,88.0,27.0,72.9,Yes,,open
+2025-02-26, west,Delta Hub,Production,Swing,M29,Mia Thomas,267,402.0,30.0,50.0,31.0,108,No,,closed
+2025-11-17 00:00:00,West,  Falcon  Point,Maintenance,Day,,liam brown,1134,1095.0,73.0,225.0,19.0,90.1,N,D03,Completed
+2025-09-01 00:00:00,North,Central Works, Packaging,swing,M9,Olivia Miller,504,641.0,,0.0,,108,FALSE,D05,Completed
+08-Jan-2025,South,Central  Works,Maintenance,day,M39,Emma Wilson,524,649.0,9.0,0.0,20.0,108.0,FALSE,D01,Closed
+2024/11/13,East,Central  Works,Packng,day,m-015,Harper Martin,1018,1037.0,43.0,171.0,,97.6,No,D02,Pending
+,West,Granite Bay,Packng,Swing,M25,Henry Lewis,231,236.0,3.0,743.0,8.0,100.9,TRUE,,Completed
+08/01/2025,SOUTH,Iron Works,Qual,,,,507,439.0,16.0,0.0,,83.4,Y,D02,open
+07/11/2024,North,Central Works,production,Day,M10,Harper Martin,804,763.0,56.0,203.0,23.0,87.9,FALSE,D01,Closed
+,Sauth ,Falcon Point, Maint,night,M021,NOAH DAVIS,857,720.0,8.0,78.0,1.0,83.1,,D03,Open
+2025-02-05 00:00:00,SOUTH,Iron Works,Production,Night,M-010,liam brown,526,610.0,33.0,0.0,1.0,108,N,D04,closed
+2024-07-22,West,Falcon Point, Quality,Swing,M34,Mia Thomas,728,770.0,42.0,,22.0,100,TRUE,D01,Closed
+11/27/2025,Noth,Iron Works,Maintenance,Day,M22,liam brown,1021,919.0,46.0,0.0,1.0,85.5%,No,D05,Open
+,Sauth, Iron Works,Packng,night,M1, Harper Martin,368,341.0,20.0,80.0,15.0,87.2,TRUE,D01,closed
+15-Sep-2024,Sauth,Evergreen Line, Qual,Day,m-006,,513,486.0,24.0,0.0,22.0,90.1,Y,D03,open
+28-Feb-2025,North,Delta Hub,Logistics,swing,M-019,Sophia Taylor,936,922.0,47.0,86.0,7.0,93.5,No,D03,open
+2025/08/12,South, Harbor Unit, Logistics ,,M016,Emma Wilson,863,883.0,16.0,0.0,,100.5,TRUE,D05,open
+03-Jun-2024,East,Harbor Unit,Maint,Day,M7,John Smith,1179,1313.0,77.0,0.0,22.0,104.8,yes,,Open
+2024-05-02,East, Falcon Point,Production,,M012,Elijah Thompson,1072,1025.0,78.0,0.0,17.0,88.3,Yes,,closed
+06-May-2025,West,Iron Works,Maintenance ,Day,M-030,,1044,1181.0,1190.0,78.0,,35.0%,TRUE,D05,open
+2025-06-26, East,Delta Hub,Quality,Swing,M-035,J. Smith,810,737.0,10.0,141.0,9.0,89.8,Yes,D03,closed
+2025-05-26,Sauth, Evergreen Line,Production ,,M011, Amelia White,945,1022.0,78.0,0.0,9.0,99.9,Yes,D01,Closed
+09/13/2024,West,Falcon Point ,Logistics,Night,M34, Liam Brown,227,238.0,19.0,0.0,,96.5,No,D02,open
+24-Nov-2025,North ,Evergreen Line ,Quality,night,M14,liam brown,966,,15.0,66.0,33.0,100.3,N,D01,Closed
+2024-04-01 00:00:00,East,Granite Bay, Production,Day,M029,Ava Johnson ,652,506.0,13.0,0.0,28.0,75.6,yes,D02,closed
+2024/03/04,Noth,Falcon Point ,Packaging,Swing,M-021,NOAH DAVIS,839,896.0,37.0,23.0,16.0,102.4,Yes,D05,open
+08/13/2025,South,Harbor Unit, Packaging,swing,,John Smith,1035,1039.0,48.0,0.0,17.0,95.7,,D03,closed
+2025-04-02 00:00:00, West ,Alpha Plant,Packng,swing,M8,Mia Thomas,927,845.0,,77.0,11.0,84.3,FALSE,D04,Open
+24-Sep-2024, South,Alpha Plant,Maint,Swing,m-004,Noah Davis,274,211.0,,0.0,20.0,75.2,N,,Completed
+2024-08-15 00:00:00,East,Central Works,Logistics,Swing,M012,Maria Garcia,713,603.0,,16.0,15.0,78.5,,D05,closed
+2025/09/24,Eest,Iron Works,Maint,Night,M007, Harper Martin,353,256.0,,0.0,3.0,71.7,Y,D03,Closed
+2025/07/22,North,Evergreen Line ,Maint,Day,M026,James Moore ,1010,941.0,29.0,0.0,34.0,90.3,N,D01,Completed
+08/08/2024,East,Central Works,Packng,day,M-037,James Moore,677,809.0,27.0,68.0,3.0,108,N,,closed
+09/26/2024,East,Falcon Point,Qual,,, John Smith,464,468.0,,,5.0,94.8,,,
+09/17/2024,East,GRANITE BAY,production,,M-011,Amelia White,1049,1072.0,59.0,207.0,34.0,96.6,no,,Pending
+2025-11-08 00:00:00,East,Evergreen Line,Packng,,M-005,Emma  Wilson,576,512.0,6.0,0.0,7.0,87.8,TRUE,D03,closed
+2025/08/11,West,Harbor Unit,Quality,day,M-008,Harper Martin ,856,854.0,32.0,0.0,18.0,96,Y,D03,closed
+21-Mar-2025,West,Evergreen Line,Packaging,,M004, liam brown,1065,1201.0,1.0,95.0,,108,N,D03,closed
+12/27/2025,East, Harbor Unit ,Packaging ,swing,M36, A. Johnson ,865,947.0,52.0,43.0,,103.5,Y,D04,Pending
+06-Sep-2025,East, Alpha Plant,Logistics,Day,,Ava Johnson,1165,1151.0,46.0,128.0,27.0,94.8,Y,,Open
+2024-06-28 00:00:00,North,Iron Works ,Packaging,Day,M013,liam brown,956,938.0,12.0,28.0,22.0,96.9,TRUE,D05,Completed
+2025-10-04 00:00:00,South,Central Works,Quality,swing,M032,M Garcia,743,749.0,761.0,228.0,5.0,,Yes,,Open
+15-Oct-2024,South,Central Works,Packaging,Day,m-014,,282,284.0,2.0,0.0,,100,no,,Completed
+2024-08-26 00:00:00,East , delta hub,Production,Night,M004,Mia Thomas,186,120.0,7.0,30.0,2.0,60.8,FALSE,D01,closed
+06/03/2024, East ,Evergreen Line,Logistics,Swing,m-022,liam brown,673,720.0,12.0,184.0,27.0,105.2,FALSE,,Open
+29-Nov-2024, North,Delta Hub,Packng,,M019,Ethan Harris,1088,,37.0,,16.0,84,no,D02,open
+17-Apr-2024,Eest,Central Works,Qual,day,M-009,Emma Wilson,879,743.0,,205.0,31.0,83.7,N,,Pending
+2025/11/25,Nrth,Central  Works,Production,,,,770,662.0,49.0,156.0,29.0,79.6%,No,D04,closed
+2025/02/10,North,Harbor Unit,Packaging,,M-019,Maria Garcia,1125,1063.0,6.0,97.0,12.0,94.0%,N,D03,open
+2025/10/05, Eest,Iron Works,Maintenance,day,M-004,Logan Robinson,688,547.0,36.0,179.0,0.0,74.3,Yes,D03,
+04-Jan-2025,North,Bravo Site,Qual,,,Maria Garcia,254,257.0,1.0,89.0,5.0,100.8,TRUE,D05,closed
+2024-07-01 00:00:00,Sauth,Delta Hub,Logistics,,m-006,Mia Thomas,1051,995.0,48.0,0.0,2.0,90.1,No,D05,Completed
+2025-11-20 00:00:00,East ,Alpha Plant,Maint,night,,Emma Wilson,957,820.0,,0.0,,85.6,Y,,
+20-Apr-2025,North, Granite Bay,Logistics,day,M020,Logan Robinson,691,556.0,29.0,139.0,0.0,76.3,N,,Open
+2024-12-20,South, Central  Works,Packng,day,M020,Isabella Martinez,1086,1058.0,67.0,0.0,17.0,91.3,,D01,Pending
+03/26/2025,South,Alpha Plant,Packaging,,m-026,NOAH DAVIS ,385,264.0,5.0,61.0,8.0,67.3,TRUE,D03,Completed
+,South,Iron  Works,Maint,,M28,Ethan Harris,801,669.0,10.0,188.0,2.0,82.3,yes,D02,Closed
+2024/03/20,East,Falcon Point,Quality,,M9,NOAH DAVIS,332,391.0,18.0,4.0,4.0,108,Yes,D02,Completed
+2025-02-13 00:00:00,north,GRANITE BAY,Quality,,M-023,Olivia Miller,763,657.0,28.0,86.0,4.0,82.4,no,D05,closed
+,South,Harbor Unit,Quality,,M34,Elijah Thompson,240,213.0,11.0,67.0,10.0,84.2,N,,Closed
+2025-09-02,West,BRAVO SITE, production,swing,m-015,Lucas Jackson,766,832.0,37.0,0.0,,103.8,N,,Pending
+2025-04-05 00:00:00,SOUTH,Harbor Unit,Packng,,,Lucas Jackson,732,709.0,740.0,88.0,9.0,35.0%,no,D01,Completed
+2025-10-18,North,Iron Works,Packng,day,M7,Lucas Jackson ,427,492.0,33.0,0.0,12.0,107.5,N,,Open
+2025-05-21 00:00:00,East, Harbor Unit,Production,swing,M027,  A. Johnson ,517,553.0,39.0,196.0,3.0,99.4,no,,Open
+2025-05-02,East,Granite Bay,Qual,night,M001,Harper Martin,504,443.0,22.0,26.0,1.0,83.5,Yes,D01,Completed
+2025-08-15 00:00:00,North,BRAVO SITE,Qual,day,m-026,Olivia Miller,287,267.0,11.0,9.0,25.0,89.2,TRUE,D04,Open
+03/04/2025,Nrth ,Iron  Works,Logistics ,,M15, Harper Martin,1037,927.0,42.0,0.0,0.0,85.3,yes,D05,closed
+2024/06/02,West,Iron Works,Maintenance,Swing,M-029,Sophia Taylor,799,900.0,65.0,69.0,,104.5,No,D05,closed
+2025-02-19 00:00:00,South ,Bravo Site,Packng,swing,,Mason Anderson,495,395.0,28.0,0.0,10.0,74.1,No,,closed
+12-Mar-2025, East , GRANITE BAY,Production,night,M31,Charlotte Clark,1160,,66.0,218.0,27.0,82.7,yes,D02,closed
+2025-10-22 00:00:00,West,Central Works,Packaging,day,M11,James Moore,1162,1053.0,75.0,,,84.2,yes,,Pending
+12-Jul-2025,South ,BRAVO SITE ,Maint,,,,961,986.0,31.0,889.0,13.0,99.4,Y,D02,Pending
+04/07/2025,North,Falcon Point,production ,Night,m-007,Harper Martin,203,262.0,5.0,97.0,,108,Yes,,Pending
+08/20/2025,East ,Granite Bay ,Maintenance ,night,M9, Isabella Martinez,743,,45.0,28.0,24.0,77.5%,N,D02,Closed
+2025-01-21 00:00:00,South,Iron  Works, Quality,Night,M34, Isabella Martinez,195,191.0,15.0,0.0,15.0,90.3,TRUE,,Closed
+12/28/2025,West,Granite Bay, Quality ,night,M030, A. Johnson ,686,779.0,13.0,0.0,4.0,108,Yes,,Open
+18-Jul-2025,Sauth,Alpha Plant,production,swing,M-013,,274,154.0,,634.0,7.0,52.9,,D04,Completed
+12/13/2025,South, Bravo Site,Quality,Day,M007, Noah Davis,910,1042.0,0.0,26.0,22.0,108,FALSE,,Completed
+05-Jan-2025,West,Evergreen Line,Production,,M19,Mason Anderson,672,654.0,,0.0,1.0,91.7,Yes,D01,
+2025/08/15,East,Iron Works,Packaging,,M-006,Amelia White,1127,1049.0,59.0,95.0,25.0,87.8,TRUE,D01,Pending
+27-Jul-2025,Noth,Alpha Plant,Production,Night,M003, Ethan Harris,1164,,80.0,54.0,,81.6,yes,D02,closed
+2024-09-29 00:00:00, North, Iron Works ,Logistics,Swing,M19,Ethan Harris,875,731.0,15.0,0.0,,81.8,TRUE,,closed
+2024-01-16,East ,Iron Works,Qual,Day,M-039, Mia Thomas ,1081,1218.0,21.0,0.0,21.0,108,yes,,Closed
+2024-12-02 00:00:00,West,Evergreen Line,Qual,Swing,M025, James Moore ,193,283.0,18.0,159.0,19.0,108,FALSE,D01,Pending
+22-Jan-2024,North, Alpha Plant , Quality ,Night,M-035,Ava Johnson,1094,1163.0,83.0,73.0,,98.7,yes,,Open
+2024-08-22 00:00:00,Nrth, Alpha Plant,Packng,Swing,M-033, Ethan Harris,930,946.0,35.0,87.0,28.0,98,Y,D04,open
+2025-03-20,South, Alpha Plant,Packaging,night,M007,liam brown,1034,977.0,72.0,0.0,8.0,87.5,Y,D04,Completed
+11/14/2024,North,Central Works,Maint,swing,M004, Emma  Wilson ,254,336.0,14.0,44.0,0.0,108,no,D03,Completed
+,East, BRAVO SITE,Packng,day,M29,Elijah Thompson,1031,,6.0,848.0,,91.8,Yes,,Closed
+2024/08/12,East,Evergreen Line,Packng,Day,M011, Amelia White,1161,1213.0,,60.0,23.0,96.7,No,,Closed
+2024-08-01, North,Bravo Site,Packaging,Day,,M Garcia,962,,0.0,65.0,19.0,91.9,No,,Completed
+,North, Alpha Plant, Logistics,swing,M-033,James Moore,240,252.0,15.0,188.0,,98.8,Y,D03,closed
+2025/08/25,South,Evergreen Line,Maintenance,day,M039,Henry Lewis,1155,1217.0,48.0,90.0,7.0,101.2%,yes,,closed
+10/18/2025,West,Delta Hub,Maintenance,night,M-029,John Smith,394,448.0,33.0,0.0,23.0,105.3,TRUE,D02,Completed
+2025/06/02,East,Evergreen Line, Quality ,Day,M-027,Mia Thomas,798,936.0,1.0,127.0,5.0,108,Yes,D04,closed
+2024-01-20,West,Granite Bay,production,day,M34,James Moore,753,783.0,30.0,598.0,13.0,100,yes,,closed
+2024-08-18,North,Iron Works,Quality,Night,M-021,Lucas Jackson,583,575.0,15.0,149.0,,96.1,FALSE,D03,Pending
+13-Jun-2025,East,Granite Bay ,Maintenance,,, Mason Anderson,607,494.0,11.0,73.0,15.0,79.6,TRUE,D01,open
+2025/07/08,South,Evergreen Line,Qual,,M-033,James Moore,467,517.0,11.0,0.0,32.0,108.0,FALSE,D05,Open
+2025-11-18 00:00:00,South,Delta Hub ,Packng,Swing,m-021,Maria Garcia,1136,1137.0,53.0,0.0,1.0,95.4,Yes,D02,open
+09/29/2025,South,Delta Hub,Quality,Day,M29,Emma Wilson,342,380.0,28.0,98.0,24.0,102.9,yes,,open
+,West, Falcon Point,Packng,swing,M17,Charlotte Clark,888,,48.0,0.0,24.0,77.6%,,D04,Closed
+10/30/2025,West,Bravo Site,Packaging,Night,M002,M Garcia,819,659.0,11.0,55.0,4.0,,no,,Completed
+02/08/2024,north,GRANITE BAY,Maint,day,,Emma  Wilson,743,776.0,,0.0,31.0,102,yes,D05,Completed
+2024-08-18 00:00:00,South,Iron Works,Logistics,Night,M-014, Logan Robinson ,1004,959.0,59.0,81.0,17.0,89.6,No,D02,Pending
+2024/05/24,North,Granite Bay,production ,,,M Garcia,1019,962.0,44.0,0.0,14.0,90.1,yes,D03,Pending
+10/31/2025,East,Delta Hub,Quality,Swing,M32,James Moore,642,540.0,28.0,106.0,,,FALSE,D01,open
+09-Apr-2024,Sauth,Delta  Hub,Packng,Day,M21,M Garcia,815,849.0,28.0,19.0,31.0,100.7,no,,Open
+19-Dec-2025, West,Central Works,Qual ,swing,M9,Olivia  Miller,446,334.0,14.0,29.0,,71.7,No,,Pending
+2024-07-05 00:00:00, West, Falcon Point,Production,day,m-034,Logan Robinson,1050,956.0,51.0,89.0,4.0,86.2,No,D01,Pending
+10-Mar-2025,South,Evergreen Line,Production,Night,M21, Mia Thomas ,896,916.0,13.0,13.0,,100.8,Y,,Completed
+02/02/2025,West,  Falcon Point,Production,Swing,,Mia Thomas,513,637.0,2.0,149.0,,108,no,,Completed
+2024-07-28 00:00:00,East,Iron Works,Qual,,M35,Sophia Taylor,1074,1153.0,82.0,33.0,4.0,99.7,TRUE,D02,closed
+2025/09/06, East,Falcon Point,Maintenance,Night,M-006,Henry Lewis,207,226.0,17.0,2.0,26.0,101.0%,yes,D05,Completed
+2025/07/24,West,Iron Works, Production,Swing,m-012,M Garcia,833,684.0,721.0,236.0,20.0,35,FALSE,D04,Open
+2024-10-22 00:00:00,East,Bravo Site,Quality,,m-031,Olivia Miller,649,686.0,3.0,141.0,34.0,105.2%,yes,,Completed
+05/27/2025,East ,Iron Works, Packaging,,,Henry Lewis,668,776.0,25.0,0.0,,108,TRUE,D05,Closed
+25-Oct-2025,East,Iron Works,Maintenance,Swing,M20,Isabella Martinez,335,322.0,21.0,59.0,,89.9,TRUE,,open
+,East,Iron Works,Packaging,Swing,,Harper Martin,1037,1165.0,81.0,0.0,8.0,104.5,FALSE,D01,Open
+20-Mar-2024,Noth,Central Works, production,,,J. Smith,1119,1011.0,22.0,0.0,18.0,,Y,D01,open
+08/21/2024,South,Central Works, Quality,Swing,,Lucas Jackson,1149,1168.0,12.0,25.0,32.0,100.6,FALSE,D05,closed
+2024-08-02,South, Evergreen Line,Quality,,M-021,Mia Thomas,807,935.0,38.0,74.0,22.0,108,yes,D04,Closed
+2024-09-04, East,Evergreen Line,Quality ,Swing,, Liam Brown ,528,408.0,5.0,0.0,9.0,76.3,N,D05,Completed
+2024/07/07, East, GRANITE BAY,Production,Night,M22, liam brown ,782,765.0,44.0,109.0,34.0,92.2,Y,D02,Open
+2024-06-12,West,Evergreen Line,Production,swing,M038,Lucas Jackson,349,284.0,16.0,66.0,12.0,76.8,N,D04,Pending
+2024/08/27,North,Falcon Point,Packaging ,Night,M5,Mason Anderson,392,499.0,37.0,10.0,1.0,108,Yes,,Open
+2025-11-07 00:00:00,North ,Harbor Unit, Packng,swing,M003, Sophia Taylor ,180,108.0,2.0,81.0,6.0,58.9,Yes,,Open
+12/29/2025,South,Evergreen Line,Quality,day,M-015,M Garcia,452,389.0,2.0,,1.0,85.6,no,D05,Closed
+2025-11-04 00:00:00, SOUTH,delta hub, Maint,,, Ethan Harris,1172,1043.0,24.0,37.0,1.0,86.9,No,D02,Closed
+, West ,Delta Hub ,Production,day,,Mason Anderson,1108,1170.0,92.0,0.0,12.0,97.3,,,closed
+2025/08/27,South,Evergreen Line,Qual,,M003,Sophia Taylor,1186,1076.0,34.0,76.0,,87.9,Y,D04,Pending
+2025-05-24 00:00:00, South ,Falcon Point, Maintenance,Night,M-002,Noah Davis,812,916.0,49.0,0.0,32.0,106.8,No,D01,Closed
+07/03/2024,West,Alpha Plant,Qual,night,,J. Smith,854,938.0,61.0,2.0,,102.7,No,D03,Closed
+07/03/2024,South ,Harbor Unit,production,,m-003,Elijah Thompson,790,929.0,5.0,0.0,32.0,108,Yes,D04,Completed
+2025-04-28,north,Alpha Plant ,Maint,,M-026, Henry Lewis,1154,1182.0,41.0,0.0,31.0,98.9,Yes,,open
+2025-03-20 00:00:00,East,Falcon Point,production,night,M014,Harper Martin,1161,1073.0,21.0,0.0,1.0,90.6,N,,Open
+03/04/2024,West,Central Works,Quality,swing,,John Smith,704,712.0,14.0,124.0,13.0,99.1%,FALSE,,open
+,South,Falcon Point,Maintenance,swing,M-030,Emma  Wilson,885,,51.0,25.0,24.0,89.6,No,D05,open
+30-Mar-2024, west,Alpha Plant,Production,day,M21,J. Smith,700,646.0,31.0,38.0,19.0,87.9%,yes,D02,Completed
+06/04/2025, Nrth,Evergreen Line,Logistics,swing,M22,Harper Martin,1082,1002.0,,38.0,28.0,89.6,no,D01,closed
+12/30/2024,South,Falcon Point,Logistics,swing,,Sophia Taylor,996,1056.0,23.0,,24.0,103.7,Y,D01,Open
+2024/05/30,East, delta hub,Quality,night,M-040,Harper Martin,1066,1171.0,45.0,137.0,17.0,105.6,No,D04,Completed
+2025-04-30 00:00:00,East,Iron Works,Logistics,day,M012,Amelia White,1045,928.0,67.0,828.0,13.0,82.4,no,,Pending
+2024-01-27 00:00:00,South,Falcon Point ,production,Day,M039,Liam  Brown,983,919.0,8.0,118.0,,92.7,N,,Open
+13-Jun-2024,Nrth,Falcon Point, Maintenance,Swing,M13,Henry Lewis,525,518.0,28.0,0.0,22.0,93.3,Yes,D02,Completed
+2025-10-10, East,Harbor Unit, Maintenance,night,M002,liam brown,207,240.0,,,8.0,108,TRUE,,closed
+01-Feb-2025,Noth,alpha plant,Packaging,Night,M040,NOAH DAVIS,705,562.0,2.0,0.0,,79.4,,,closed
+2024-01-26,East,Delta Hub,Packaging,,m-002,Emma  Wilson,1102,1233.0,9.0,0.0,21.0,108.0,no,D04,open
+04/09/2024,South,Bravo Site,Logistics,,M33,  A. Johnson ,879,926.0,26.0,77.0,28.0,102.4,no,D02,closed
+2025-04-08 00:00:00,North,Bravo Site,Production,swing,,Sophia Taylor,662,607.0,9.0,,19.0,90.3,N,D04,Pending
+06/08/2024,South ,Alpha Plant,Qual,Night,m-037, A. Johnson ,859,987.0,7.0,7.0,8.0,108,N,,Open
+2024/09/03, Noth ,Granite Bay,Logistics ,day,M-008,Lucas Jackson,494,478.0,10.0,2.0,,94.7,FALSE,D04,open
+2024-07-22,South,delta hub,Packaging,Day,m-009, Olivia Miller,311,,16.0,82.0,,108,Yes,D03,closed
+04/30/2025, Sauth,Granite Bay,Logistics,swing,,Liam Brown,204,108.0,4.0,79.0,33.0,51,TRUE,,closed
+21-May-2024,West ,Iron Works,Qual,,M004,Mia Thomas,395,517.0,19.0,0.0,25.0,108,N,,open
+15-Jun-2025,South,Alpha Plant,Packng,,M034, A. Johnson ,866,717.0,44.0,21.0,19.0,77.7,No,,closed
+2024-10-18 00:00:00,Noth, Delta Hub, Production,Night,M-012,Charlotte Clark,303,252.0,8.0,228.0,28.0,80.5,yes,D02,open
+06/01/2025,Noth,Granite Bay,Maint,,M040,,942,851.0,3.0,650.0,,90,Y,D03,Pending
+2025-11-24 00:00:00,West, Granite Bay,Packng,Night,,Mason  Anderson,354,210.0,12.0,196.0,26.0,55.9,TRUE,,Closed
+12/08/2025,South , Falcon Point,Quality,,m-036,Sophia Taylor,836,917.0,67.0,64.0,,101.7,Yes,D03,Closed
+,Nrth, Falcon Point,Qual,,m-018,Emma  Wilson,569,446.0,27.0,171.0,5.0,73.6,No,D01,closed
+12/29/2025,West,Harbor Unit, Packaging ,swing,M014, Mason Anderson,355,427.0,4.0,0.0,9.0,108,Yes,D01,Pending
+,East ,GRANITE BAY,Maintenance,night,m-040,Mia Thomas,370,283.0,296.0,52.0,17.0,35.0%,Y,,closed
+2025-11-14,East,Evergreen line ,Maintenance,Night,M023,Maria Garcia,606,484.0,1.0,3.0,3.0,79.7,No,D05,Pending
+18-Aug-2024,North,Alpha Plant,Maint,Day,M4,Ethan Harris,384,521.0,0.0,92.0,25.0,108,No,D05,Completed
+07/07/2024,Nrth ,GRANITE BAY,Quality,Swing,M7,Isabella Martinez ,321,262.0,9.0,44.0,18.0,78.8,,,Open
+2024-07-31 00:00:00,South,Bravo Site,Quality,Night,M035, Noah Davis,933,938.0,27.0,25.0,,97.6%,No,,Closed
+2024-10-27 00:00:00,West ,Falcon Point,Maint,Day,M-031,NOAH DAVIS,791,731.0,19.0,191.0,13.0,90.0%,Y,,Completed
+,South,Falcon Point,Production,,M-018,Harper Martin ,840,873.0,,181.0,31.0,97.1%,Yes,D03,Open
+04/28/2024,West,Granite Bay,Maintenance ,swing,M12,Harper Martin,1143,1090.0,79.0,0.0,19.0,88.5,FALSE,,Pending
+2024/03/03,East ,delta hub,Production,day,,John Smith,801,934.0,19.0,88.0,28.0,108,no,,closed
+2025-11-14,North,Central Works ,Maintenance,Day,,Ava Johnson,840,680.0,25.0,12.0,1.0,,no,,Pending
+05/19/2024,South,Alpha Plant,Quality ,Day,M-017,J. Smith,1024,1059.0,26.0,81.0,19.0,100.9,Yes,,Completed
+12-Apr-2024,North ,Iron Works,Logistics,swing,m-039,Lucas Jackson,820,932.0,49.0,55.0,10.0,107.7,Yes,D02,Pending
+13-Mar-2024, North,Harbor  Unit,Maint,Night,m-012,Amelia White,666,682.0,16.0,5.0,12.0,100,FALSE,D03,closed
+2024-01-05,Sauth,Iron Works, production,Night,M-033,Noah Davis,637,615.0,6.0,88.0,,95.6,no,D04,open
+04-Jul-2024,East,Falcon Point,Qual,Day,m-037,Ava Johnson,342,360.0,12.0,68.0,7.0,101.8,FALSE,D03,Completed
+2024/11/27,North,Evergreen line , Packaging,,M-035,Mason Anderson,873,967.0,0.0,,3.0,108,,D05,Pending
+08/17/2024,West,Bravo Site ,Qual,,m-022,J. Smith,754,600.0,43.0,72.0,8.0,73.9,No,D01,Closed
+2024/11/05,East,Bravo Site,Packaging,Swing,m-019,,952,1086.0,8.0,78.0,,108,FALSE,,Closed
+2025-08-10 00:00:00, North ,Iron  Works,Qual,,M038,Ethan Harris,389,463.0,28.0,,1.0,,Y,D03,open
+23-Aug-2025,East,Harbor unit,Packng,Day,M-006,James Moore,905,941.0,42.0,26.0,16.0,99.3,no,D04,open
+2024-03-11,North,Falcon Point,Production,Night,m-009, Elijah Thompson,376,304.0,1.0,0.0,,80.6,FALSE,D04,Pending
+16-Aug-2024,Nrth,alpha plant,Production,Day,m-019,Olivia Miller,431,448.0,14.0,0.0,21.0,100.7,,D02,Closed
+2025-08-22,South,Falcon Point,Quality,Swing,M24,Ava Johnson,1132,1103.0,85.0,35.0,9.0,89.9%,TRUE,D02,Closed
+2025-09-24 00:00:00,Sauth,Alpha Plant,Packng,Swing,,Mason Anderson,1151,,67.0,59.0,8.0,102.4,no,D02,Pending
+06/26/2025,East,Iron Works,production,Day,M036,NOAH DAVIS,373,448.0,34.0,206.0,10.0,108,no,D01,closed
+2024-05-31,West,delta hub,Maint,,M24,Logan Robinson,463,403.0,2.0,0.0,29.0,86.6,Y,D04,closed
+2025-07-07 00:00:00,South,Bravo Site,Maintenance,day,,Ethan Harris,395,278.0,18.0,134.0,25.0,65.8,TRUE,D03,Completed
+2024/04/19,Nrth , Falcon Point,Packaging,night,m-021,Emma  Wilson,358,237.0,,0.0,7.0,64.5,FALSE,,Pending
+18-Sep-2024,South,Central Works,Qual,day,,Elijah Thompson ,627,,24.0,37.0,30.0,105.3%,yes,D02,closed
+2024/04/08,South,Falcon Point,Packng,Night,M29,Lucas Jackson,970,972.0,23.0,0.0,16.0,97.8,FALSE,,Completed
+2025/05/07,South,Evergreen Line,production,swing,M-002,liam brown,1128,1060.0,29.0,135.0,34.0,,N,D02,Closed
+2024/10/07, Noth, Harbor Unit,Maint,,M-030,Elijah Thompson,989,884.0,61.0,149.0,3.0,83.2%,no,,open
+2024-05-15 00:00:00,north ,Central Works , production ,day,,Ava Johnson,559,602.0,4.0,0.0,21.0,107,No,,Completed
+2024-06-04 00:00:00,North,Evergreen line ,Quality,night,M-011,M Garcia,551,448.0,16.0,238.0,24.0,78.4,Y,D02,Open
+2024-10-21,Nrth,Harbor Unit,Packng,Night,,Mason Anderson,695,761.0,7.0,0.0,25.0,108,TRUE,,open
+2025-02-28 00:00:00, west,GRANITE BAY,Maintenance,,m-035,Mason Anderson,484,491.0,20.0,33.0,26.0,97.3%,FALSE,D05,Open
+2024/08/08,East,Alpha Plant,Maint,night,M-005,M Garcia,319,286.0,10.0,60.0,10.0,86.5,no,D04,closed
+2025/09/06,East,GRANITE BAY,Maintenance,swing,M-036, Isabella Martinez ,639,665.0,28.0,0.0,,99.7,N,D05,Completed
+2024-07-09,East,Falcon Point,Packaging,night,M38,Emma Wilson,622,611.0,14.0,101.0,7.0,96,Y,,open
+29-Apr-2025,East, Alpha Plant,Maintenance,swing,M026,Elijah Thompson,636,745.0,17.0,0.0,28.0,108.0%,N,D03,Completed
+2025-10-09 00:00:00,North,Evergreen Line,Maintenance,Night,M-013,NOAH DAVIS ,360,263.0,10.0,0.0,35.0,70.3,yes,,open
+2025-01-28 00:00:00,Sauth,Iron Works, Production ,swing,M16,James Moore,564,457.0,8.0,40.0,,79.6,no,,Pending
+07/22/2024,  west,Evergreen  line  ,Maint,,M4,Emma Wilson,210,52.0,2.0,,30.0,35,yes,D04,open
+09/17/2024, North, BRAVO SITE,Packng,day,M10,Liam Brown,688,666.0,41.0,23.0,,90.8,FALSE,,
+2025-03-26 00:00:00,West,Central  Works ,Packaging,night,M028,Lucas Jackson,880,883.0,16.0,0.0,33.0,98.5%,Y,,closed
+2024/04/05,West,Evergreen Line,production,,M21,Sophia Taylor,1069,1008.0,29.0,0.0,0.0,91.6,yes,D02,Pending
+11-Nov-2024,West,Granite Bay,Production,,M29,,268,192.0,7.0,89.0,,69,N,,open
+01-Dec-2025,West,Harbor Unit,Packng,Swing,M-019,Henry Lewis,296,384.0,23.0,0.0,,108,N,,closed
+2025-03-11,West,Central    Works,Maintenance,Swing,M-027,Logan Robinson,735,867.0,,52.0,14.0,35,no,D04,open
+10/08/2025, north,Alpha Plant,Production,Swing,M16, Olivia Miller,508,554.0,17.0,222.0,32.0,105.7,no,,open
+2025-10-19 00:00:00,West,delta hub,Quality,,m-006,Maria Garcia,804,734.0,52.0,39.0,8.0,84.8,no,D01,closed
+2025-05-04,South,Alpha Plant,Quality,Swing,M20,Henry Lewis,181,271.0,0.0,56.0,10.0,108,no,,Pending
+08/07/2024,Nrth,Evergreen line ,Production,,M28,Emma  Wilson,184,320.0,23.0,0.0,7.0,108,yes,,closed
+2025/09/09,SOUTH, Falcon Point,production,day,M039,Elijah  Thompson,430,384.0,19.0,,33.0,84.9,FALSE,D04,open
+2024/03/31,West,Delta  Hub,Qual,day,M016,Logan Robinson,1099,967.0,56.0,118.0,,82.9,no,D04,Open
+05/30/2024,West,Central Works,Quality,Swing,M030,Henry Lewis,1007,1050.0,66.0,0.0,19.0,97.7,no,D02,open
+27-Mar-2024,South,Falcon Point ,Qual,night,M-010, John Smith,954,959.0,30.0,736.0,23.0,97.4,Y,D03,Completed
+08-Apr-2024,East,Alpha Plant,Qual,swing,M-008,Isabella Martinez,490,604.0,19.0,24.0,23.0,108.0%,yes,D05,
+27-Feb-2024,East,Granite Bay, Packng,Swing,M20, NOAH DAVIS ,549,462.0,22.0,6.0,6.0,80.1,Yes,D03,Completed
+2024-04-09 00:00:00,West,Delta Hub,Packaging,Night,M-038,Mia Thomas,321,274.0,1.0,165.0,3.0,85,TRUE,,Open
+2025-08-17,South ,Central Works,Packng,,M33,Noah Davis,230,136.0,6.0,39.0,,56.5%,FALSE,,closed
+2024-02-24 00:00:00,North,Iron Works,production,,m-039,,1114,1001.0,34.0,88.0,21.0,86.8,yes,,Completed
+02/16/2024,North,Iron Works,Logistics,Swing,M006,Olivia Miller,352,309.0,24.0,0.0,11.0,81.0,No,,open
+23-Jun-2024,South, Falcon Point ,Packaging,Swing,M017,Ava Johnson,534,641.0,42.0,34.0,13.0,108,yes,D01,Closed
+30-Apr-2024,East,GRANITE BAY,Packng,swing,,Liam Brown,491,487.0,,0.0,23.0,96.1,N,D01,Completed
+20-Mar-2024,North,delta hub,Logistics,,M-008,Isabella Martinez,1045,1149.0,32.0,0.0,34.0,106.9,Yes,D02,open
+02/19/2024, North ,Granite Bay, Logistics,day,,Sophia Taylor,446,523.0,,41.0,,108,FALSE,,Closed
+2025/10/23,West,Harbor Unit,Logistics,Day,M32,NOAH DAVIS,768,701.0,33.0,59.0,12.0,87,Y,D03,Open
+2024-12-05,South, Falcon Point ,production,day,M028,Sophia Taylor,952,1024.0,64.0,,33.0,100.8%,No,,closed
+2025-07-22,West,Harbor Unit,Production,Day,M013, Amelia White ,543,,8.0,29.0,8.0,93.4,N,,Pending
+2025-07-26,West, Falcon Point,Packng,night,m-037,M Garcia,927,1007.0,,0.0,,106.5,yes,D04,Open
+2025-05-31,North,Harbor  Unit,Logistics,swing,,Olivia Miller,973,1018.0,55.0,212.0,17.0,99,TRUE,D02,Pending
+2024-04-13 00:00:00,North,Evergreen Line, Quality,,m-031,Henry Lewis,352,368.0,29.0,0.0,0.0,96.3,TRUE,D05,
+2024-01-27, North ,Granite Bay,Quality,,M-038,M Garcia,729,611.0,45.0,47.0,25.0,77.6,Yes,D01,open
+2025-07-17 00:00:00,West, Bravo Site , Maint,Day,M020,J. Smith,651,583.0,,0.0,20.0,87.7%,FALSE,,Completed
+03/04/2025,South,Granite Bay,Packaging,night,,Ethan Harris,1082,1022.0,38.0,65.0,8.0,90.9,No,D02,Closed
+2024-09-15,East,GRANITE BAY,Packaging,day,M39,John Smith,284,132.0,2.0,159.0,26.0,45.8,no,D05,Pending
+07/07/2025,South,Harbor Unit, Logistics,,M011,Mia Thomas,540,441.0,,53.0,13.0,76.3,no,,open
+2025-04-25 00:00:00,West ,Central  Works,Packng ,Night,M40,Elijah Thompson,397,249.0,4.0,67.0,23.0,61.7%,Y,D04,Completed
+2024/09/23,East ,Bravo  Site,Production,Night,M-036,Ava Johnson,995,1095.0,58.0,0.0,24.0,104.2%,Y,,Open
+2025-06-16,North,Granite  Bay,Maint,Night,, Emma Wilson ,467,442.0,7.0,11.0,13.0,93.1,No,,open
+05/05/2025,North , Central Works ,Qual,Swing,M-004, A. Johnson ,288,225.0,1.0,0.0,6.0,77.8,no,,closed
+,South ,delta hub,Maintenance,,m-030,Mia Thomas,865,,44.0,82.0,30.0,102.7%,No,D02,
+2024-03-13,Noth,Bravo Site,Packng,day,M029,Mason Anderson,668,510.0,6.0,51.0,26.0,75.4,No,,Open
+2024/02/27,North,Alpha Plant,Qual,Day,M-018,Mia Thomas,895,934.0,,0.0,,96.9,N,D05,open
+2025/02/23,West,Iron Works,Maint,,m-032,,366,391.0,21.0,0.0,15.0,101.1,Yes,,Pending
+2024/12/26,North,Harbor unit,Quality,night,M13,M Garcia,640,760.0,43.0,0.0,3.0,108,FALSE,,closed
+,South,Iron Works ,Packng,,M008,Maria Garcia,867,842.0,17.0,218.0,,95.2,Y,,
+2025-05-01 00:00:00,West,Delta Hub,Maintenance,swing,M7, A. Johnson ,725,,25.0,0.0,10.0,105.2,TRUE,,Closed
+,Noth, Falcon Point,Logistics,Day,M-012,Harper Martin,400,419.0,,0.0,2.0,102.2,Yes,D02,open
+2024/05/24,East ,Iron Works,Packng,day,m-029,Mason Anderson,412,490.0,30.0,112.0,17.0,108,Y,D05,Open
+2025-05-07,West,Central Works,Logistics,,M-012,  A. Johnson ,723,764.0,40.0,77.0,,100.1,No,D01,Pending
+05/08/2024,north,Delta Hub, Packaging,,M17,Lucas Jackson,823,919.0,61.0,55.0,20.0,,Y,D04,Closed
+02-Mar-2024,East  ,Delta Hub ,production,,M034,Isabella Martinez,326,208.0,16.0,189.0,20.0,58.9,N,,Pending
+, West ,Evergreen Line,Maint ,swing,m-030,,734,588.0,,3.0,33.0,76.8%,FALSE,D01,open
+02-Jan-2024,West,Central Works,Quality,Swing,M009,Logan Robinson,964,1079.0,57.0,9.0,2.0,106,FALSE,D05,Open
+, West,Alpha Plant,Maintenance,Swing,M39,James Moore,876,756.0,60.0,64.0,10.0,79.5,yes,D05,Completed
+2025-12-26,North,Central Works , Production ,night,,J. Smith,281,127.0,0.0,71.0,30.0,45.2,N,,Closed
+2025-06-04,East,Iron Works,Production,day,M031,Harper Martin,662,504.0,0.0,0.0,3.0,76.1,yes,D02,Open
+2024-12-22 00:00:00,East,Iron Works,Packaging,swing,,John Smith,234,152.0,165.0,0.0,22.0,35.0,N,D04,Open
+02-Aug-2024, North,Bravo Site,production,day,m-014,Charlotte Clark ,917,877.0,5.0,75.0,23.0,95.1%,no,D04,open
+2024-08-16 00:00:00,East, Evergreen Line , Maint ,day,M029,Elijah Thompson,933,,24.0,175.0,24.0,108,yes,,Pending
+2024/01/23,East,Falcon Point, Maint,day,M9,Liam Brown,487,386.0,19.0,7.0,6.0,75.4,,,closed
+2024-12-17,East,Iron Works,Maint,night,M029,Elijah Thompson,721,684.0,12.0,0.0,35.0,,Yes,D04,Completed
+2024-09-24 00:00:00,SOUTH,Alpha Plant, Production,swing,M005,Elijah Thompson,288,370.0,2.0,532.0,1.0,108,FALSE,,Open
+2025/09/27,South,Granite Bay ,Packaging,,M-038,Charlotte Clark,958,1024.0,5.0,0.0,29.0,106.4,TRUE,,closed
+2025/04/20,South,Bravo Site,Maintenance,night,m-024,John Smith,682,744.0,44.0,,,102.6,Y,D05,Closed
+2024-12-20 00:00:00,North,Evergreen Line,production,day,M26, A. Johnson ,521,616.0,48.0,66.0,2.0,108.0,Y,,Completed
+01-Jun-2025,North,  Alpha Plant,Qual,night,M-039,Ava Johnson,801,835.0,63.0,0.0,,96.4,TRUE,D03,Pending
+2024-07-06,South,Evergreen Line, Qual,day,M-001,Ava Johnson,1161,1127.0,43.0,24.0,,93.4,TRUE,D02,Pending
+20-Aug-2025,East ,Central Works, production,Swing,M018,Sophia Taylor,246,247.0,,0.0,4.0,100.4,N,,Pending
+2025-07-19,East ,Bravo Site,Maintenance,Day,M-028,Emma  Wilson ,618,642.0,50.0,0.0,6.0,95.8%,Y,D05,open
+2025-12-15,West,Bravo Site,Logistics ,,M029,  A. Johnson  ,1028,879.0,3.0,31.0,,85.2,FALSE,D05,closed
+2024-10-11 00:00:00, west,Evergreen Line,Maint,Swing,M39,Emma  Wilson,444,522.0,5.0,84.0,0.0,108.0%,no,D03,Pending
+2025/06/14, East ,Iron Works,Packng,Night,,Charlotte Clark,436,575.0,27.0,66.0,,,FALSE,D01,Open
+2024-05-19 00:00:00,West,Central  Works,Packng ,Day,m-033,,1044,1068.0,73.0,65.0,,95.3,no,D03,Closed
+2025-08-19 00:00:00,South,BRAVO SITE,Packaging,swing,m-012,Henry Lewis,1099,970.0,37.0,0.0,22.0,84.9,N,D02,Open
+2025-04-26, West,Evergreen line ,production ,swing,M040,Amelia White,363,306.0,10.0,27.0,34.0,81.5,No,D01,
+2024/06/17,North,Falcon Point,Maint,night,,,365,345.0,7.0,33.0,20.0,92.6,no,,Completed
+2025-04-02 00:00:00,Nrth,Evergreen line ,Production,Swing,M035,Ava Johnson,535,376.0,26.0,11.0,33.0,65.4,,,open
+2025-12-22,North, Bravo Site ,Packaging,Day,m-009,Ethan Harris,822,784.0,5.0,822.0,33.0,94.8,no,,closed
+09/22/2025,North,Iron  Works,Maint,,M023,,198,72.0,5.0,88.0,,35,Yes,D04,Completed
+2025/09/30, Eest ,Falcon Point,Maint ,day,M-001,Logan Robinson ,611,712.0,6.0,,26.0,108,Yes,D01,open
+2024-03-20 00:00:00,West,Evergreen line  ,Logistics,night,M004,Emma Wilson ,528,,32.0,0.0,35.0,102.7,No,,Closed
+12/10/2025,West ,GRANITE BAY,production,swing,M-018,Harper Martin,379,,4.0,9.0,17.0,,no,D04,Open
+11-Dec-2025,South,Harbor Unit,Quality ,swing,,Maria Garcia,544,427.0,28.0,0.0,8.0,73.3,Yes,,Open
+2025/12/23,West,Granite Bay,Maint,night,m-019,Sophia Taylor,977,1088.0,73.0,0.0,13.0,103.9%,TRUE,,Pending
+2025/06/21,SOUTH,Bravo Site,Packng ,day,m-023,liam brown,543,585.0,19.0,10.0,7.0,104.2,no,D02,closed
+2025/02/08,South,Alpha Plant,Packng,swing,M-007,Noah Davis,344,210.0,10.0,0.0,5.0,58.1,No,D03,Pending
+10/01/2024,Noth,BRAVO SITE,Qual,,M012,Emma Wilson,786,857.0,4.0,49.0,34.0,108,Y,D04,Closed
+2025/09/04,SOUTH, Delta Hub,Maintenance,Swing,M-030,J. Smith,1147,1233.0,41.0,74.0,23.0,103.9,FALSE,D02,Completed
+2024-12-26 00:00:00,South,Iron Works,Packng,swing,m-012,,504,344.0,26.0,0.0,33.0,63.1,TRUE,,open
+2025-10-27 00:00:00,East,Alpha Plant, Quality ,,M-032,M Garcia,815,805.0,0.0,72.0,28.0,98.8,N,,open
+2025-11-21 00:00:00,East ,Granite Bay,Packaging,day,m-029,Olivia Miller,194,191.0,,1.0,19.0,92.3,no,D05,Completed
+09/10/2024, East ,GRANITE BAY,Packaging,night,M018, Isabella Martinez,459,403.0,409.0,21.0,35.0,35,N,D03,Pending
+2024-03-03 00:00:00,South,Iron Works,Production,day,M023,,1150,,13.0,215.0,27.0,92.6,,D02,Open
+19-Jul-2025,West,  Falcon Point,Packng,,M12,Ethan Harris,1172,1153.0,37.0,229.0,29.0,95.2,Yes,D03,Open
+2024/06/02,East,Central  Works,Maint ,night,M38,Isabella Martinez,413,338.0,7.0,0.0,25.0,80.1%,TRUE,D02,Closed
+09/17/2025,West,Central Works,Production,Day,M28,Lucas Jackson,1120,1212.0,32.0,49.0,28.0,105.4,Yes,D05,open
+2024/02/27,north,Falcon Point ,Quality,,M029,Elijah Thompson,514,577.0,18.0,0.0,10.0,108,TRUE,D03,closed
+2025/05/17,North, Alpha Plant,Packaging,Day,M004, John Smith ,1151,1054.0,62.0,0.0,,86.2,No,D05,Pending
+2025/12/11, West ,Granite Bay,Packng,Night,M17,Harper Martin,361,499.0,30.0,0.0,,108.0%,Y,D04,open
+2025-06-22,South,Central Works,production,Night,M30,Emma  Wilson,686,595.0,19.0,0.0,30.0,84,Yes,,Pending
+2025-10-02,North ,alpha plant,Packaging,Day,M5,Maria  Garcia,789,887.0,54.0,0.0,5.0,105.6,TRUE,D04,Completed
+2024/06/27,South,Iron Works,Maint,Day,M-014,Isabella Martinez,477,461.0,29.0,701.0,35.0,90.6,yes,D01,Completed
+2024-04-14,East,alpha plant, Maintenance,Day,M27,M Garcia,802,744.0,26.0,202.0,31.0,89.5,TRUE,D03,Closed
+09/21/2025,Nrth,Falcon Point,Maint,Day,M29,Mia Thomas,1058,949.0,41.0,0.0,17.0,85.8,FALSE,,
+,South, Evergreen Line,Production,day,,Mason Anderson,437,496.0,28.0,,33.0,107.1,TRUE,,Open
+2024/05/16,north,Evergreen  Line,production,night,m-003,Olivia Miller,318,277.0,2.0,38.0,12.0,86.5,FALSE,D04,open
+03/24/2024,East,Harbor Unit, Packaging,Day,m-035,Mason Anderson,616,670.0,2.0,0.0,32.0,108,FALSE,D04,Completed
+02/28/2024,East,BRAVO  SITE,Qual,,M017,Lucas Jackson,1021,1049.0,75.0,16.0,15.0,95.4,no,,
+25-Mar-2024,North,Harbor Unit,Logistics,Night,M-037,Olivia Miller,180,,10.0,0.0,0.0,,Y,,
+30-Apr-2025,South ,Central    Works,Qual,Night,M002,Liam Brown,1083,945.0,59.0,237.0,34.0,81.8,Y,,closed
+2025/01/03,South,Iron  Works,Quality,,m-017,,555,577.0,1.0,84.0,5.0,103.8,,D04,closed
+2024-03-02, SOUTH,Granite Bay,Maintenance,swing,M34,James Moore,718,703.0,20.0,93.0,,95.1,Yes,,Pending
+2025/04/02,north,Evergreen Line,Packaging,swing,m-027,Lucas Jackson,580,486.0,15.0,0.0,29.0,81.2,Yes,D03,Closed
+24-Feb-2024,East,Central Works,Packaging,night,M020,,1017,1154.0,30.0,84.0,,108,yes,D05,Pending
+2024-10-08,South,Bravo Site,Qual,Night,M028,NOAH DAVIS,803,923.0,36.0,0.0,29.0,108,No,,closed
+2025/12/30,north,  Falcon Point,Qual,Swing,M-035,Amelia White,683,784.0,33.0,34.0,,108.0%,N,D03,Open
+2025-02-03,East,alpha plant, Maint ,swing,M-009,James Moore,229,260.0,2.0,108.0,0.0,108,Y,D01,open
+2024-03-09,North, Alpha Plant ,Quality,Day,m-002,John Smith,989,865.0,49.0,0.0,34.0,82.5,TRUE,D02,Pending
+2024-05-16 00:00:00,North ,Alpha Plant,Logistics,Night,m-018,Liam Brown,979,830.0,56.0,32.0,33.0,79.1,no,,Pending
+2024/12/20,South,BRAVO SITE,Packaging,day,M15,Mia Thomas,456,390.0,29.0,26.0,29.0,,,D02,Pending
+25-Nov-2025,South,Granite Bay,Quality,night,m-020,liam brown,1027,1146.0,26.0,100.0,3.0,108,No,D04,Open
+02/05/2024,North,Evergreen Line,Logistics,Night,M-039,Emma    Wilson,797,678.0,16.0,0.0,29.0,83.1,N,D05,Pending
+03/13/2025,South,BRAVO SITE,production,swing,M-040,James Moore ,638,687.0,52.0,0.0,35.0,99.5,N,,Closed
+09/14/2024, East,Iron  Works,Packng,swing,M10,Mason Anderson,1037,935.0,18.0,63.0,29.0,,N,,Closed
+2024/11/14,North,  Alpha Plant,Logistics,,,Sophia Taylor,841,979.0,32.0,0.0,22.0,108,yes,,open
+2024-03-23,West ,Harbor unit,Packng,swing,m-024,Maria Garcia,332,293.0,12.0,0.0,2.0,84.6,No,D04,closed
+2025-03-26 00:00:00,West,Harbor Unit,Quality,,M14,Ava Johnson,719,729.0,8.0,0.0,2.0,100.3,N,,Closed
+2024/05/23,South,  Alpha Plant ,Maint,day,M-001,Noah Davis,1085,1015.0,7.0,0.0,31.0,92.9,TRUE,D01,Closed
+,South,Granite Bay,Maint,day,M24,M Garcia,1074,,39.0,144.0,5.0,101,N,D05,closed
+19-Jun-2025,West,Iron  Works,Production ,,m-018,James Moore,1193,1330.0,83.0,4.0,33.0,104.5,No,D01,Closed
+10/18/2025,West, Falcon Point,Logistics,Swing,M35,Elijah Thompson,425,492.0,11.0,883.0,9.0,108.0,TRUE,,open
+2025-10-12,North,Alpha Plant,Production,swing,M-009,,363,311.0,11.0,52.0,20.0,82.6,N,D03,Closed
+06-May-2025,East,Harbor unit,Packng,night,M018,Mason Anderson,946,,9.0,40.0,21.0,,TRUE,D02,Closed
+15-Feb-2024,East,Evergreen Line,Packaging,Night,m-023,Logan Robinson,862,,10.0,84.0,15.0,100.3,Y,,Open
+,North,Alpha Plant ,Production,,M37,Liam Brown,739,675.0,38.0,14.0,7.0,86.2,Y,D01,open
+08/10/2025,West,Iron Works,Maintenance,Swing,M020, A. Johnson ,382,474.0,21.0,0.0,2.0,108,N,,Closed
+01/10/2025,South,Evergreen Line,Maint,Night,M-004, Emma  Wilson,938,,16.0,24.0,0.0,,TRUE,,Pending
+2024/11/04,North,Iron Works,Production,,M019,Ethan Harris,1128,1101.0,81.0,0.0,9.0,90.4%,TRUE,D02,open
+2024/12/17,North,Iron Works,Packaging,swing,M-006,,742,747.0,16.0,0.0,,98.5,FALSE,,Open
+2024-09-28,North,alpha plant,Maintenance,day,M039,John Smith,297,317.0,14.0,7.0,16.0,102,N,D01,Closed
+01/22/2024,South,Falcon Point,production,night,M-018,NOAH DAVIS,443,370.0,28.0,0.0,,77.2,FALSE,D02,open
+2025-03-02,South ,Harbor Unit,Packaging,night,m-018,James Moore,316,367.0,2.0,77.0,26.0,,yes,D01,closed
+2024-08-09 00:00:00,South,Iron Works,Maint,swing,M030,NOAH DAVIS,834,958.0,9.0,26.0,26.0,108,No,D04,open
+10-Aug-2025, west,GRANITE BAY,Production,swing,M-004,Mia Thomas,1088,995.0,69.0,29.0,27.0,85.1,No,D02,open
+24-Jun-2024,West,Falcon Point,Production,Night,,Charlotte Clark,745,586.0,35.0,22.0,24.0,74,TRUE,,
+07-Jun-2024, west, alpha plant,production,night,M-001,James Moore,229,137.0,6.0,18.0,29.0,57.2,No,D01,Pending
+18-Apr-2024,North,Central Works,Packng,,m-007,John Smith,261,197.0,12.0,,6.0,70.9%,No,D02,Completed
+2024/03/01,SOUTH ,Harbor Unit,Production,swing,M022,Sophia Taylor,686,575.0,14.0,54.0,3.0,81.8%,TRUE,,open
+,South,Harbor Unit,Maint,Night,M032,Mia Thomas ,1142,1141.0,15.0,0.0,9.0,98.6,No,D01,open
+06-Dec-2024,South, Alpha Plant,Qual,night,M-010,,1111,,34.0,119.0,3.0,100.2,N,D03,closed
+2025-11-21,West,Falcon Point,production ,,,Henry Lewis,880,794.0,42.0,63.0,,85.5,Y,,
+,North,Central  Works,Packng,night,M10,Maria Garcia,824,830.0,32.0,40.0,18.0,96.8,No,D01,closed
+21-Apr-2025,South ,Iron Works,Quality,,M012,M Garcia,639,510.0,36.0,0.0,6.0,,No,,Closed
+11-May-2025, West ,Delta Hub, Quality,Swing,m-014,Ava Johnson,874,1011.0,62.0,81.0,6.0,108,N,D02,
+2024-04-06 00:00:00,North,Alpha Plant,Maintenance,,m-006,Emma  Wilson,596,695.0,12.0,74.0,33.0,108,no,D04,Open
+08/28/2025,Eest,Falcon Point,Logistics,swing,M007,James Moore,910,834.0,11.0,0.0,4.0,90.4,TRUE,D02,Pending
+07-Jun-2024,North,Harbor Unit,Maint,day,M020,Emma Wilson,612,488.0,3.0,0.0,1.0,79.2,no,D05,Pending
+2024-11-15 00:00:00,West, Bravo Site,Maintenance,Day,M35,,889,748.0,35.0,221.0,5.0,80.2,Y,,Open
+02/01/2024,north,Granite  Bay,Packng,night,m-004,Emma  Wilson ,589,619.0,43.0,60.0,24.0,97.8,No,D05,Open
+2024-02-27,East,Bravo Site,Packaging,,M-025,Ava Johnson,352,248.0,17.0,0.0,34.0,65.6,yes,D04,Pending
+,North,Granite Bay,Quality,day,M39, A. Johnson  ,291,299.0,12.0,0.0,24.0,98.6%,yes,D05,closed
+03/09/2025, West ,Falcon Point,Packaging,night,M002,J.  Smith,755,746.0,53.0,2.0,33.0,91.8,no,D04,Completed
+2025/05/26,South, Evergreen Line,Production ,Day,M031,Harper Martin,291,404.0,5.0,0.0,27.0,108,N,D05,Open
+2025-07-23 00:00:00,South,Evergreen Line, Quality,,, A. Johnson ,884,953.0,58.0,54.0,19.0,101.2,Y,,Completed
+2025-09-30,West, GRANITE BAY,Logistics,day,M6,Noah  Davis,1104,1188.0,39.0,,5.0,104.1,No,D04,open
+09-Feb-2024,North,Iron Works ,Packaging,swing,m-030,Amelia White ,736,768.0,43.0,0.0,,98.5,yes,,Closed
+2025/07/23,North,Central Works,production,,M023, Liam Brown,650,566.0,30.0,228.0,7.0,82.5,No,,closed
+2024-09-27 00:00:00,West,Evergreen Line, Logistics,Night,M019,Ava Johnson,779,710.0,,,25.0,89,no,D02,closed
+06/02/2024,West,Central Works,Quality,swing,,Ava Johnson,1186,1161.0,7.0,181.0,14.0,97.3%,Yes,D01,
+2024/08/19,Eest ,Harbor Unit,Packng,day,M-026, John Smith,832,734.0,15.0,0.0,15.0,86.4,N,,Closed
+2024/11/11, East,Iron Works,Qual,,M1,Mia Thomas,1151,1025.0,58.0,32.0,21.0,84.0,no,D03,closed
+2025-04-05 00:00:00,West,Granite Bay,Maint ,night,,Sophia Taylor,992,1054.0,47.0,60.0,,,no,,Pending
+2025-02-22 00:00:00, South ,Delta Hub,Qual,Day,m-024, James Moore ,1043,1120.0,27.0,187.0,31.0,104.8,TRUE,D05,Closed
+2024-05-25,West,Evergreen Line, Quality,day,,,656,552.0,39.0,111.0,,78.2%,FALSE,,Open
+18-Feb-2024, East,Harbor Unit,Production,Day,,Emma Wilson,258,377.0,2.0,31.0,27.0,108,No,D05,Closed
+2025-07-01 00:00:00,South,Iron  Works,Packaging,night,m-018,Henry Lewis,767,642.0,44.0,10.0,1.0,78.0%,FALSE,,Closed
+2024/04/01,West, Harbor Unit,Quality,Night,M017,James Moore,787,,0.0,39.0,,,TRUE,,closed
+2025-01-24 00:00:00,West,delta hub,Qual,Swing,m-030, NOAH DAVIS,290,245.0,,12.0,23.0,83.4,Yes,,Open
+15-Aug-2024, South,Delta Hub,production,day,m-038,M Garcia,441,370.0,16.0,10.0,23.0,80.3,Yes,D05,Pending
+2025-07-25 00:00:00,West,Evergreen line ,Production,Day,M021,Henry Lewis,954,1001.0,,171.0,9.0,99.3,N,D01,Pending
+2024-05-07 00:00:00,North,Evergreen Line,Logistics,Swing,m-013,Ethan Harris,1113,1094.0,75.0,0.0,15.0,91.6,No,,Open
+,North,Iron Works,Packaging,swing,M-013,Maria Garcia,748,651.0,2.0,0.0,,86.8,yes,D05,Pending
+10/15/2024, South,Iron  Works ,Packng,,,Liam Brown,434,436.0,31.0,0.0,21.0,93.3,TRUE,,Closed
+07/01/2024,Eest,Alpha Plant,Maint,Swing,m-013, Henry Lewis,839,,,84.0,33.0,103.3,Y,D05,Completed
+04/09/2024,East,Bravo  Site,Packaging ,Day,M-037,Amelia White,312,409.0,18.0,,,108,Yes,D05,Open
+10/07/2024,East,Falcon Point,Maint ,Day,M-034,NOAH DAVIS,1041,968.0,69.0,,28.0,86.4,FALSE,D02,Pending
+2024-09-27,North,Delta Hub,Packaging,swing,,Ethan Harris,769,755.0,1.0,51.0,3.0,98,FALSE,D01,Open
+2024-03-19,East ,Evergreen Line,production,Day,m-001,John Smith,966,916.0,,28.0,10.0,93.4,No,D01,
+19-Mar-2024,West,Iron Works,production,night,M-020,Mia Thomas,521,590.0,44.0,179.0,4.0,104.8,no,D05,Pending
+2024-11-24,West,Granite Bay,Qual,Night,M-023,Emma Wilson,299,268.0,12.0,120.0,24.0,85.6,Yes,D05,open
+,East , Falcon Point,Quality,,M16,Lucas Jackson,1164,1086.0,,0.0,10.0,87.1,Yes,D05,Completed
+,South, Harbor Unit,Packng,day,m-012, Ava Johnson,963,846.0,8.0,227.0,33.0,87,TRUE,D01,closed
+07/12/2025,South,Iron Works,Logistics,night,M27, Noah Davis ,242,203.0,,121.0,35.0,81.4,Y,,closed
+2025-02-21 00:00:00,South, Falcon Point,Maintenance,Night,,Emma  Wilson,625,508.0,17.0,26.0,6.0,78.6,yes,,Open
+2024-05-20 00:00:00,North,Delta Hub,Maintenance,Day,M005,M Garcia,1003,1094.0,8.0,147.0,3.0,108,Yes,D03,closed
+03/31/2025,East,Granite  Bay, Packaging,,M23,Charlotte Clark,997,886.0,37.0,35.0,23.0,85.2,No,,Completed
+08/05/2024,Noth, Iron  Works,Production,night,m-004,Ava Johnson,350,344.0,,32.0,,96.9,Yes,D05,open
+2024-10-05 00:00:00,North ,Bravo Site,Qual,,M8,Mia Thomas,1104,1134.0,55.0,16.0,19.0,97.7,TRUE,,closed
+01-Nov-2025, west,Evergreen Line,Maint,swing,M008,Emma  Wilson,608,621.0,34.0,21.0,26.0,96.5,Y,D02,
+2024/10/25, west,Central    Works,Maint,night,,Amelia White,609,506.0,0.0,35.0,,83.1,FALSE,D04,
+2025-09-02,West,Harbor Unit, Packaging,swing,M013,Emma Wilson,243,329.0,18.0,86.0,15.0,108,Y,D04,Completed
+2025-07-09,South,Central  Works, Logistics,swing,M039,Elijah Thompson,260,205.0,15.0,79.0,17.0,73.1,yes,,closed
+04/26/2024, west,Harbor Unit,production ,night,M001,Ava Johnson,1019,949.0,52.0,36.0,8.0,88,Yes,D03,Closed
+14-Sep-2025, West, Central Works ,Packaging,swing,M-009,James Moore,758,788.0,13.0,177.0,,102.2,yes,,Open
+08/02/2025, North ,Iron Works,Packng,Swing,M33,Emma  Wilson,657,585.0,23.0,72.0,33.0,85.5,yes,D02,Closed
+2024-12-28 00:00:00,West, Harbor Unit,Production,day,M33,M Garcia,1169,1191.0,,16.0,7.0,96.7,yes,D04,Pending
+2024/10/28,North,delta hub, Quality,swing,M-027,Mia Thomas,272,112.0,8.0,22.0,15.0,38.2,N,,Completed
+2024-05-06 00:00:00, West,Alpha Plant,Production,Swing,M015, Sophia Taylor,540,445.0,13.0,7.0,1.0,80,TRUE,D03,Pending
+23-Mar-2024,South,Granite Bay,Packng,Day,M18,Henry Lewis,248,215.0,2.0,0.0,35.0,85.9,TRUE,D01,open
+05/29/2025,South, Alpha Plant,Packng,day,M-039,NOAH  DAVIS,448,416.0,3.0,0.0,30.0,92.2,FALSE,,open
+29-Mar-2024,North,Harbor unit,Packng,day,M011,Mia Thomas,187,317.0,23.0,206.0,33.0,108,Y,,open
+2025/04/27,East, Evergreen Line,Production,,M-034,Isabella Martinez ,642,608.0,0.0,40.0,29.0,94.7,no,D01,Pending
+2025-02-20 00:00:00,South,GRANITE BAY ,Maintenance ,,M12,Emma Wilson,787,835.0,31.0,34.0,1.0,102.2,FALSE,D05,Open
+2025/11/18,Noth,Evergreen Line,Quality,Day,m-025, Elijah Thompson,1027,984.0,4.0,0.0,,95.4,Yes,,Closed
+04-Mar-2025,North,Harbor Unit,Maintenance ,,M34,Ava Johnson,787,630.0,46.0,12.0,32.0,74.2,No,D01,Pending
+,East,Delta  Hub,Qual,swing,m-003,James Moore,609,689.0,37.0,89.0,,107.1,no,D02,Closed
+2024-01-29,North, Alpha Plant,Packng,Swing,M005, Mason Anderson ,1039,911.0,8.0,0.0,5.0,86.9,No,,Open
+30-Jul-2024,East,BRAVO SITE,Qual,Swing,M013,Charlotte Clark,197,60.0,0.0,20.0,22.0,35.0%,No,D02,open
+2025-06-24,South,Granite Bay,Production,swing,M-005,Isabella Martinez,972,,30.0,719.0,6.0,103.1,No,D05,Completed
+2025/06/06,North,Harbor Unit,Logistics,day,M011,Charlotte Clark,336,463.0,32.0,144.0,20.0,108,FALSE,D02,Open
+07/19/2025, East,delta hub,Quality,Swing,M12,Sophia Taylor,217,103.0,6.0,145.0,6.0,44.7,TRUE,D01,closed
+20-Feb-2024,East,Iron  Works, Qual,swing,M19,Ava Johnson,674,536.0,6.0,0.0,21.0,78.6,no,D02,Closed
+2025-12-17 00:00:00,South,Evergreen Line,Maint,,M-015,Isabella Martinez,1061,918.0,35.0,0.0,0.0,83.2,no,,open
+2025/06/10,SOUTH,Harbor Unit,production,Day,M007,Charlotte Clark,884,1004.0,18.0,857.0,5.0,108.0,yes,,Pending
+2024/10/19,North,Falcon Point,Maintenance,day,m-007,Mia Thomas,520,595.0,44.0,119.0,29.0,106,FALSE,,
+10-Mar-2024,South,Delta Hub,Production,swing,M035,Elijah Thompson,1004,845.0,,138.0,,78,N,D03,Open
+02/08/2025,West,Iron Works,Quality,night,M-001,Charlotte Clark,673,659.0,20.0,24.0,11.0,94.9,No,,Open
+2024-10-30 00:00:00,East,Alpha Plant, Production ,Night,M006,liam brown,1026,882.0,51.0,112.0,21.0,81,Yes,D05,
+11-May-2024, west, Falcon Point,production,Day,m-011,John Smith ,1000,993.0,75.0,15.0,0.0,91.8,No,D02,
+2024-10-02 00:00:00,East,Iron Works ,Quality,,M8,Emma  Wilson,980,863.0,11.0,10.0,21.0,86.9,Yes,,Closed
+2025-07-27, west, BRAVO SITE,Qual,day,M005,Emma  Wilson,714,624.0,26.0,0.0,1.0,83.8,Yes,,closed
+07/18/2025,Nrth,Evergreen Line,Production ,,M-040,Mason Anderson,1040,1103.0,73.0,7.0,8.0,99,Y,D02,closed
+2025-01-02, South,Evergreen Line, Packng,Night,m-040,Elijah Thompson,410,348.0,26.0,0.0,29.0,78.5,Y,D01,Pending
+2024-03-29,West,Harbor Unit,Logistics,Day,m-025, Ethan Harris ,366,475.0,6.0,89.0,18.0,108.0,TRUE,D02,Closed
+2025-01-12 00:00:00, East,Falcon Point,Qual,night,m-014,Noah Davis,579,533.0,27.0,6.0,12.0,87.4,FALSE,D04,Completed
+2024-09-06,South,Granite Bay,Maintenance,Swing,M19, Mason Anderson,572,595.0,25.0,0.0,26.0,99.7,,D03,open
+11/10/2025,East,Evergreen Line,Production,day,M026,Liam Brown,859,884.0,69.0,7.0,,94.9,Yes,D02,Completed
+2025-12-30 00:00:00,South,Evergreen Line,Qual,Night,M12,Emma  Wilson,636,687.0,16.0,115.0,,105.5,N,D03,Completed
+2024-09-11,  west,Harbor Unit,Packng,night,M-025,J. Smith,842,702.0,21.0,25.0,3.0,80.9,Yes,,Pending
+2025-05-11,East,Evergreen Line,Packng,,,liam brown,548,659.0,16.0,0.0,15.0,108,Y,D01,Completed
+04/01/2024, west, Falcon Point ,Maintenance,Swing,M-029, Emma Wilson,1176,1251.0,96.0,228.0,15.0,98.2,Yes,D03,Pending
+2024/08/26,East,Delta Hub,Packaging,day,,,1092,993.0,6.0,74.0,,90.4,Yes,D04,Closed
+2024/10/05,South, Alpha Plant,Maint,day,M17,Elijah Thompson,1172,1077.0,18.0,43.0,0.0,90.4,TRUE,,closed
+04/06/2025,East,Harbor Unit,Quality,night,M-035,Harper Martin,211,195.0,10.0,20.0,32.0,87.7,TRUE,D01,Open
+2024-12-09 00:00:00,West,Granite Bay,Production,,m-017, Charlotte Clark ,478,587.0,37.0,0.0,13.0,108,yes,,Completed
+2025-01-28 00:00:00,South,Central Works,Logistics,Day,M22,Ethan Harris,510,605.0,6.0,70.0,,108,TRUE,,closed
+2025-02-24 00:00:00,North,Iron  Works,Quality,Night,m-032,liam brown,705,649.0,30.0,68.0,32.0,87.8,no,D01,Closed
+08/31/2025,North,Delta Hub,Packng,night,m-004,Logan Robinson,993,1038.0,59.0,0.0,4.0,98.6,yes,,Pending
+2024-05-13 00:00:00, South,Harbor  Unit,production,Night,M034, Ethan Harris,868,865.0,,0.0,11.0,96.8,No,,Open
+12-Aug-2024, north,Evergreen line ,Qual,Swing,M017,Liam Brown,652,704.0,53.0,44.0,22.0,99.8,No,D04,closed
+2024-05-02 00:00:00,North,Evergreen Line,production,,M-003,Harper Martin,721,780.0,38.0,0.0,,102.9,TRUE,D04,closed
+2024-08-30,West ,Delta Hub,production,night,M-009,John  Smith,293,273.0,2.0,0.0,26.0,92.5,no,D05,closed
+2025/09/26,East,Iron Works,Qual,Swing,m-012,Olivia Miller,1095,998.0,63.0,0.0,31.0,85.4,yes,D03,open
+2024/11/16,West,BRAVO SITE,Qual,Swing,,NOAH DAVIS ,948,943.0,,0.0,29.0,95.7,,D04,Closed
+,East,Alpha Plant,Qual,Swing,M11, Amelia White,581,676.0,8.0,61.0,16.0,108,TRUE,D04,Open
+24-Oct-2024,Nrth,Harbor unit,Packaging,day,M4,Lucas Jackson,510,382.0,6.0,82.0,33.0,73.7,yes,,open
+2025-05-28,Nrth,Central Works, Packng,Day,M6,Charlotte Clark,426,479.0,37.0,10.0,11.0,,No,D01,Open
+22-Jun-2025,Eest,Central Works,Production,,M-033,Lucas Jackson,1140,1267.0,,0.0,12.0,108,No,D05,Pending
+23-Apr-2025,East ,Iron Works,production,Swing,M019, Henry Lewis,1001,862.0,7.0,0.0,6.0,85.4,TRUE,D01,closed
+2024/12/30,East,alpha plant,Packaging,day,,,928,983.0,48.0,4.0,23.0,100.8,no,D01,open
+03/15/2025,South,Central  Works,Qual ,swing,M-020,Mia Thomas,799,639.0,33.0,71.0,28.0,,No,D01,open
+07-Jul-2025,north, Falcon Point, Qual,,m-012,liam brown ,662,738.0,33.0,,3.0,106.5%,No,D02,Completed
+2024/02/02, East,Central  Works,Quality,,,Sophia Taylor,761,608.0,14.0,0.0,10.0,78.1,Yes,,open
+2025-05-19,South,Bravo Site,production ,swing,M-040,Olivia Miller,500,576.0,32.0,0.0,1.0,108,Yes,,Closed
+26-Feb-2024,East,Central Works,Packng,,M28,James Moore,1093,1163.0,33.0,14.0,34.0,103.4,FALSE,D02,Closed
+22-Aug-2025,Nrth ,Bravo Site,Qual,Day,M1,Ethan Harris,363,471.0,8.0,151.0,14.0,108,no,D03,Completed
+2025-12-20,North,Iron Works, Production ,,M-032, J. Smith,345,338.0,23.0,115.0,22.0,91.3,TRUE,D02,Pending
+2025-08-09 00:00:00,West ,Evergreen Line,Maintenance,night,m-001,M Garcia,1109,1118.0,46.0,55.0,,96.7,yes,D02,Open
+02/05/2025,East,Evergreen Line, production,night,,Ethan Harris,890,976.0,25.0,,6.0,,Y,D01,Pending
+,West,Central Works, Packaging,,M009,Emma Wilson,699,706.0,714.0,0.0,,35,Y,D05,open
+2025-11-07,East,Central  Works,Maint,Night,M012,Harper Martin,678,714.0,46.0,59.0,8.0,98.5,No,D05,open
+2025-11-06,North,Central Works,Logistics,night,m-039,liam brown,325,308.0,5.0,45.0,10.0,93.2,FALSE,,open
+12/14/2024,East,GRANITE BAY ,Packaging ,night,M24,J. Smith,274,232.0,,24.0,7.0,82.5,Y,D01,Completed
+09-May-2024,East,Delta Hub,Packng,Swing,M-006,Noah Davis,825,885.0,5.0,106.0,35.0,106.7,yes,,Closed
+14-Jan-2024,West,Evergreen Line,Qual,Night,M-028, John Smith,1047,,25.0,76.0,4.0,101.6,no,,Pending
+2025-11-06,Eest ,Iron Works,Maint,Night,M-027,Henry Lewis,794,747.0,10.0,39.0,32.0,92.8,N,,Pending
+2025-12-26,South,GRANITE BAY, Qual,swing,M019,John Smith,827,809.0,27.0,0.0,16.0,94.6,no,D03,Completed
+2024-02-03,East,delta hub,Maintenance,Night,M018,John Smith,284,232.0,17.0,18.0,28.0,75.7%,N,,open
+2025-03-18 00:00:00,North ,Granite Bay,Packng,swing,m-028,J. Smith,1149,,9.0,85.0,18.0,,TRUE,D04,Pending
+2024/06/24, East ,Evergreen Line,Qual,Swing,M9,Harper Martin,221,85.0,3.0,135.0,10.0,37.1%,No,D02,closed
+09/18/2025,East,Alpha Plant,Logistics,day,,Emma Wilson,526,555.0,27.0,15.0,24.0,100.4,Yes,D05,Pending
+2024-07-30, Eest,Central  Works,Logistics,Day,M18, John Smith,707,606.0,20.0,24.0,,82.9,Yes,D05,open
+2024-06-26 00:00:00, East,Granite Bay,production,night,M-012, James Moore ,322,328.0,,13.0,,98.8,yes,D03,closed
+2025/10/29,north ,Central Works,Quality,night,M23,Maria Garcia,949,798.0,32.0,83.0,1.0,,TRUE,D04,Closed
+2024-11-13, East ,Harbor unit,Quality,day,m-005, Logan Robinson,626,676.0,,0.0,4.0,103.8%,No,D01,closed
+2025-05-30,North, Harbor unit ,Qual,Night,M-008,Emma Wilson,478,352.0,6.0,80.0,24.0,72.4,N,,
+2024/08/23, North,Bravo Site,Packng,,,Logan Robinson,776,791.0,39.0,21.0,4.0,,yes,D01,Completed
+2024/04/17,East,Delta Hub, Production,Night,m-029,Henry Lewis,1014,1148.0,46.0,169.0,4.0,108,No,D05,Open
+23-Nov-2025,North, Central Works,Packaging,night,m-008,Mia Thomas,1147,1127.0,20.0,52.0,25.0,96.5,N,D02,Open
+2024/07/14,SOUTH ,Evergreen line ,Production,,M022,Henry Lewis,532,484.0,7.0,0.0,6.0,89.7,,,Completed
+2024-02-06,East,Falcon Point,Packaging,Night,M39,Emma Wilson,710,585.0,44.0,1.0,31.0,76.2,Yes,,closed
+2024-10-16,North , Evergreen Line ,Packaging ,swing,M020, Charlotte Clark,1127,1262.0,56.0,97.0,10.0,107,yes,,Closed
+2025-09-29,South,Harbor Unit ,Packaging,Night,m-026,Amelia White,245,122.0,9.0,38.0,35.0,46.1,Y,D04,Pending
+2024-08-17, West,Evergreen Line,Packaging,Day,M40,Elijah Thompson,302,247.0,17.0,195.0,26.0,,N,,Open
+2025-02-11 00:00:00,West ,Granite Bay,production,night,M-032,Ava Johnson,1041,1008.0,21.0,82.0,29.0,94.8,FALSE,D05,open
+14-Apr-2025,East, Central Works,production ,day,M33, A. Johnson ,404,299.0,15.0,72.0,16.0,70.3,No,,Open
+2024-09-29, East ,Iron Works,Packaging,swing,M11,NOAH DAVIS,342,242.0,2.0,,,70.2,Y,D04,Pending
+29-Jan-2024, West,Bravo Site, Packng,night,M001,Olivia Miller,836,837.0,15.0,186.0,2.0,98.3%,yes,D02,Closed
+,North,Bravo Site,Logistics,Swing,m-007,J. Smith,1013,1024.0,33.0,61.0,,97.8,yes,,Closed
+10/24/2024,Nrth ,delta hub,production,,m-025,J. Smith,942,947.0,9.0,0.0,11.0,99.6,no,D01,Open
+01/13/2024,Nrth ,Delta Hub,Qual,Day,M-012,Emma  Wilson,874,842.0,60.0,49.0,4.0,89.5,yes,,Closed
+11-Jun-2025,West,Bravo Site,production,Swing,M-033, Henry Lewis,741,750.0,4.0,15.0,5.0,100.7,No,D04,closed
+03/20/2024,West, Harbor Unit,Production,Night,M-010,Logan Robinson ,490,464.0,25.0,54.0,20.0,89.6,,,Completed
+02-Jun-2024,South,Granite Bay,Logistics,swing,m-001,liam brown,1198,1042.0,78.0,0.0,31.0,80.5,FALSE,D01,Pending
+04-Feb-2024, North,Granite Bay,Maintenance,night,M017,Emma  Wilson,424,,10.0,128.0,26.0,,TRUE,D03,Completed
+2024-08-01,Nrth, Falcon Point,Production,,M37,Sophia Taylor,591,716.0,13.0,0.0,,108,Y,,Completed
+2024/07/15, West,Alpha Plant,Qual,Night,m-013,,619,710.0,45.0,0.0,8.0,107.4%,FALSE,D01,Closed
+05/15/2024,East ,Central Works,Production,Swing,M032,J. Smith,935,873.0,10.0,,30.0,92.3,N,D05,Closed
+2025-01-11,South,Evergreen Line,Qual,Night,m-038,Olivia Miller ,890,774.0,16.0,231.0,,85.2,No,D03,Completed
+2024-08-22,East,Falcon  Point,production ,,M-010,Liam Brown,695,720.0,22.0,73.0,33.0,100.4,Yes,,closed
+2024/04/06, East,Iron Works,Production,day,M025,James Moore,326,389.0,9.0,0.0,18.0,108,Yes,D05,Pending
+2025-04-19,South,Central Works,Production,Day,M034,Elijah Thompson ,795,679.0,42.0,179.0,10.0,80.1,N,D04,Completed
+2025/05/07, North ,Harbor Unit, Maintenance ,night,,Noah Davis,1090,1027.0,51.0,18.0,12.0,89.5,N,,closed
+06/20/2025,South,BRAVO SITE,Qual,,M13,Maria Garcia,1116,987.0,24.0,117.0,33.0,86.3,Y,D03,Completed
+10/06/2025,North,Harbor Unit,production,night,M018,Harper Martin,573,424.0,33.0,0.0,,68.2,No,D04,Pending
+2024-11-23 00:00:00,South,Iron Works,Maint ,day,M20,liam brown,1157,1259.0,70.0,,9.0,102.8,no,,closed
+07-Jun-2024,North ,Harbor Unit,Packng,Day,M002, A. Johnson ,605,568.0,0.0,,,,Yes,D01,Completed
+2024-04-13 00:00:00,SOUTH,Harbor Unit,Logistics,,M-021,Ava Johnson,352,454.0,15.0,75.0,,108,Y,D03,Completed
+2024-12-06,West,Harbor unit,Qual,Swing,M-021,Liam Brown,433,,9.0,,33.0,,No,,Closed
+,West,delta hub,Maint ,,M-037,Harper Martin,1088,961.0,49.0,85.0,27.0,83.8,No,D05,
+2025-10-22 00:00:00, North,Harbor  Unit,Maint,Night,M38,James Moore,826,747.0,16.0,158.0,18.0,88.5,TRUE,,open
+10/09/2024,Sauth, Central Works,Production,swing,,Logan Robinson,583,687.0,27.0,87.0,,,No,D04,Completed
+22-Feb-2024,East ,Granite Bay,Qual,swing,,Lucas Jackson,1175,,,71.0,27.0,102.6,no,D04,Pending
+,North,Iron Works,Maint,night,M-032,Logan Robinson,849,779.0,12.0,,9.0,90.3,No,D04,Open
+2024/12/02,West,Falcon Point,Production,night,M-034,Henry Lewis,233,285.0,6.0,0.0,15.0,108,no,,open
+2025/07/07,North ,Delta Hub,Logistics,Swing,M30,John Smith,1099,994.0,79.0,166.0,12.0,83.3%,No,,Completed
+03/19/2025,East,Granite Bay,Packng,Day,M19, Charlotte Clark ,1065,,1.0,10.0,20.0,86.3,No,D05,Completed
+2024-11-03 00:00:00,West,Central Works, Logistics ,,M005,Logan Robinson,1053,1058.0,28.0,40.0,5.0,97.8,No,,open
+02/08/2025,Eest,Alpha Plant, Maint,swing,M011,,273,271.0,,74.0,35.0,35,no,,closed
+2025-06-24,North,Falcon Point,Maint,day,M30,Sophia Taylor,504,625.0,28.0,0.0,19.0,,No,,closed
+,Noth,Falcon Point,Quality,night,,,498,345.0,19.0,0.0,1.0,65.5,N,D01,Completed
+2025-09-11,South, Falcon Point,Qual,Swing,M9, A. Johnson ,1082,1170.0,64.0,,21.0,102.2,no,,open
+2024/12/26,South,Harbor Unit,Logistics,Night,M011,M Garcia,322,193.0,3.0,219.0,,59,No,D01,closed
+2024-11-02 00:00:00,Nrth, Falcon Point,Maintenance,,m-028,Emma  Wilson,506,514.0,28.0,168.0,1.0,96,FALSE,,closed
+2025/07/22,north,Granite Bay ,Production,day,m-033, A. Johnson ,267,361.0,26.0,0.0,30.0,108,Yes,,Pending
+2024/11/10,South,Falcon Point,Logistics,night,,,440,,0.0,237.0,21.0,98.4%,FALSE,D05,Completed
+2025-08-14 00:00:00,Noth, Falcon Point ,Packaging,,m-030,Lucas Jackson,473,399.0,,0.0,5.0,82.5,N,,Open
+23-Jun-2024,South, Falcon Point ,Packaging,Swing,M017,Ava Johnson,534,641.0,42.0,34.0,13.0,108,yes,D01,Closed
+2025-11-18 00:00:00,South,Delta Hub ,Packng,Swing,m-021,Maria Garcia,1136,1137.0,53.0,0.0,1.0,95.4,Yes,D02,open
+23-Apr-2024,West,Delta Hub,Quality,night,M6,Lucas Jackson,719,670.0,23.0,65.0,34.0,90,Y,D03,open
+27-Aug-2024,Eest,Evergreen Line,Maintenance,day,M34,M Garcia,548,512.0,,74.0,25.0,92.9,no,D04,Closed
+2024/04/20, East,Harbor Unit ,Qual,,M40,liam brown,772,625.0,36.0,50.0,15.0,76.3,FALSE,D03,closed
+06/03/2024, East ,Evergreen Line,Logistics,Swing,m-022,liam brown,673,720.0,12.0,184.0,27.0,105.2,FALSE,,Open
+2025-03-26 00:00:00,West,Harbor Unit,Quality,,M14,Ava Johnson,719,729.0,8.0,0.0,2.0,100.3,N,,Closed
+2025/08/07,West,Harbor unit,Packng,swing,M16,Henry Lewis ,655,514.0,6.0,0.0,13.0,77.6,Y,,closed
+2025-05-24 00:00:00, South ,Falcon Point, Maintenance,Night,M-002,Noah Davis,812,916.0,49.0,0.0,32.0,106.8,No,D01,Closed
+2024/04/20, East,Harbor Unit ,Qual,,M40,liam brown,772,625.0,36.0,50.0,15.0,76.3,FALSE,D03,closed
+24-Oct-2024,West ,Delta Hub,Quality,Night,M-015,Emma Wilson ,1100,1058.0,60.0,0.0,4.0,90.7,No,D05,open
+,South, Granite Bay,production ,Night,M013,J. Smith,898,907.0,14.0,0.0,20.0,99.4,TRUE,,Pending
+2024-11-30 00:00:00,Noth, Alpha Plant, production,Swing,M039, jOHN sMITH ,1027,1034.0,27.0,0.0,30.0,98.1%,yes,D04,Pending
+26-Jan-2025,East,Falcon  Point,Production,day,,lOGAN rOBINSON,592,,11.0,163.0,21.0,80.1,FALSE,,open
+11-Nov-2024,West,Granite Bay,Production,,M29,,268,192.0,7.0,89.0,,69,N,,open
+2024-08-16 00:00:00,East,Delta Hub,Production,day,M-025,Noah Davis,721,659.0,43.0,0.0,27.0,85.4,no,D01,Closed
+,East,Alpha Plant,Qual, Swing,M11, Amelia White,581,676.0,8.0,61.0,16.0,108,TRUE,D04,Open
+01-Jun-2025,North,  Alpha Plant,Qual,night,M-039,Ava Johnson,801,835.0,63.0,0.0,,96.4,TRUE,D03,Pending
+2025-11-01 00:00:00,South,GRANITE BAY,Maintenance,Day,m-027,Ethan Harris,396,303.0,16.0,21.0,12.0,72.5%,No,,closed
+10-Mar-2025,South,Evergreen Line,Production,Night,M21, Mia Thomas ,896,916.0,13.0,13.0,,100.8,Y,,Completed
+2024-02-24 00:00:00,North, Alpha Plant,Packng,Day,m-035,M Garcia,898,842.0,63.0,86.0,19.0,86.7%,TRUE,, Completed 
+10-Mar-2025,South,Evergreen Line,Production,Night,M21, Mia Thomas ,896,916.0,13.0,13.0,,100.8,Y,,Completed
+2024-09-12,South,Granite Bay,production,Day,M030,Sophia Taylor,563,525.0,1.0,0.0,4.0,93.1,yes,,Pending
+05/15/2024,East ,Central Works,Production,Swing,M032,J. Smith,935,873.0,10.0,,30.0,92.3,N,D05,Closed
+04-Jul-2024,East,Falcon Point,Qual,Day,m-037,Ava Johnson,342,360.0,12.0,68.0,7.0,101.8,FALSE,D03,Completed
+2024-11-19 00:00:00,South,Harbor unit ,Quality,Swing,m-011,Maria Garcia,1008,,9.0,61.0,11.0,89.3,no,,Open
+2024-07-06,South,Evergreen Line, Qual,day,M-001,Ava Johnson,1161,1127.0,43.0,24.0,,93.4,TRUE,D02,Pending
+2025-04-05 00:00:00,West,Central Works,Logistics,,M39,Harper Martin,712,602.0,26.0,0.0,17.0,80.9,TRUE,D05,closed
+2024/06/02,East,Central  Works,Maint ,night,M38,Isabella Martinez,413,338.0,7.0,0.0,25.0,80.1%,TRUE,D02,Closed
+2024-04-06 00:00:00,North,Alpha Plant,Maintenance,,m-006,Emma  Wilson,596,695.0,12.0,74.0,33.0,108,no,D04,Open
+2024-01-27 00:00:00,North, iRON wORKS, Production,day,m-006,Ava Johnson ,314,161.0,12.0,0.0,8.0,47.5,N,D02,Completed
+12/24/2025,North,Granite Bay,Production ,,M038,James Moore ,525,626.0,,,27.0,108,No,D03,closed
+2024-11-07,West,Falcon Point,Logistics,night,M030,Mason Anderson,186,228.0,12.0,89.0,8.0,108,yes,,open
+2024/02/27,north,Falcon Point ,Quality,,M029,Elijah Thompson,514,577.0,18.0,0.0,10.0,108,TRUE,D03,closed
